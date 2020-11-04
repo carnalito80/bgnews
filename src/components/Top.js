@@ -3,7 +3,7 @@ import React from 'react';
 export default function Top() {
   return (
     <header id="header">
-    <a href="/" className="logo"><strong>BoardGame-News</strong> -your goto for board game news.</a>
+    <a href="/" className="logo"><strong>BoardGame-News</strong> -currently under reconstruction.</a>
     <ul className="icons">
       <li><a rel="nofollow" href="https://twitter.com/boardgame_news1" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
       <li><a rel="nofollow" href="https://smashbomb.com/boardgamenews" className="icon fa-comment"><span className="label">Smashbomb</span></a></li>

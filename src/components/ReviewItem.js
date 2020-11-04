@@ -1,8 +1,7 @@
 import React from "react"
-import { Link } from "gatsby"
 import parse from 'html-react-parser';
 
-class PostItem extends React.Component {
+class ReviewItem extends React.Component {
   render() {
     const item = this.props.item
     let contentz = parse(item.content.brief)
@@ -12,7 +11,7 @@ class PostItem extends React.Component {
     return (
     
       <article>
-      <a href={`/news/post/${item.slug}/`} className="image"><img src={item.image.secure_url} alt={item.image.title} /></a>
+      <a href={`/reviews/details/${item.slug}/`} className="image"><img src={item.image.secure_url} alt={item.image.title} /></a>
                    <h3>{item.title}</h3>
                    <i>Posted { dejt }</i><br></br>
                       <div className="text-wrapper">
@@ -21,7 +20,7 @@ class PostItem extends React.Component {
                       </div>
                       <span className="fadeout"></span>
                     <ul className="actions">
-                      <li><a href={`/news/post/${item.slug}/`} className="button">Read On</a></li>
+                      <li><a href={`/reviews/details/${item.slug}/`} className="button">Read On</a></li>
                     </ul> 
       </article>
 
@@ -29,4 +28,4 @@ class PostItem extends React.Component {
   }
 }
 
-export default PostItem
+export default ReviewItem

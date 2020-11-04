@@ -4,14 +4,17 @@ import React from 'react';
 
 
 class SideBar extends React.Component {
+	
 	constructor(props) {
     super(props);
     this.state = {
 			isMenuVisible:false,
+			isToplistsVisible:true,
 			width: 0,
 		};
-		
-  }
+		this.updateWindowDimensions = this.updateWindowDimensions.bind(this);
+	}
+	
 	componentDidMount() {
 		this.updateWindowDimensions();
 		window.addEventListener('resize', this.updateWindowDimensions);
@@ -23,21 +26,21 @@ class SideBar extends React.Component {
 
 	updateWindowDimensions() {
 		this.setState({ width: window.innerWidth});
-		if (window.innerWidth > 981 ) this.setState({ isMenuVisible:true });
-		if (window.innerWidth <= 981 ) this.setState({ isMenuVisible:false });
+		if (window.innerWidth > 1280 ) this.setState({ isMenuVisible:true });
+		if (window.innerWidth <= 1280 ) this.setState({ isMenuVisible:false });
 
 	}
-	width = window.innerWidth
-
-
-	//state = { isMenuVisible:false }
 
 	toggleMenu = () => {	this.setState(prevState => ({ isMenuVisible: !prevState.isMenuVisible })); }
+
+	toggleToplist = (e) => {this.setState(prevState => ({ isToplistsVisible: !prevState.isMenuVisible })); }
+	
 
   render() {
 
 	const { isMenuVisible } = this.state
-  //const [headerOpen, toggleHeader] = useState(false);
+	const { isToplistsVisible } = this.state
+ 
   return (
     <>
     	<div id="sidebar" className={` ${isMenuVisible ? "active" : "inactive"}`} >
@@ -69,28 +72,15 @@ class SideBar extends React.Component {
 										<li><a href="/news">News</a></li>
 										<li><a href="/reviews">Reviews</a></li>
 										<li>
-											<span className="opener">Submenu</span>
+											<span className={`opener ${isToplistsVisible ? "active" : "inactive"}`} >Toplists</span>
 											<ul>
-												<li><a href="#">Lorem Dolor</a></li>
-												<li><a href="#">Ipsum Adipiscing</a></li>
-												<li><a href="#">Tempus Magna</a></li>
-												<li><a href="#">Feugiat Veroeros</a></li>
+												<li><a href="/top/7-wonders-expansions">Best 7 Wonders expansions</a></li>
+												<li><a href="/top/terraforming-mars-expansions">Best Terraforming Mars Expansions</a></li>
+												<li><a href="/top/terraforming-mars-sleeves">Best Sleeves for Terraforming Mars</a></li>
+												<li><a href="/top/one-vs-many">Top one vs many board games</a></li>
 											</ul>
 										</li>
-										<li><a href="#">Etiam Dolore</a></li>
-										<li><a href="#">Adipiscing</a></li>
-										<li>
-											<span className="opener">Another Submenu</span>
-											<ul>
-												<li><a href="#">Lorem Dolor</a></li>
-												<li><a href="#">Ipsum Adipiscing</a></li>
-												<li><a href="#">Tempus Magna</a></li>
-												<li><a href="#">Feugiat Veroeros</a></li>
-											</ul>
-										</li>
-										<li><a href="#">Maximus Erat</a></li>
-										<li><a href="#">Sapien Mauris</a></li>
-										<li><a href="#">Amet Lacinia</a></li>
+										
 									</ul>
 								</nav>
 

@@ -1,19 +1,20 @@
 import React from 'react';
 
-import Layout from '../../components/Layout';
-import PostItem from '../../components/PostItem';
-import JSONData from "../../data/posts.json"
+import Layout from '../components/Layout';
+import ReviewItem from '../components/ReviewItem';
+import JSONData from "../data/reviews.json"
 
 const JSONbuildtime = () => (
   <Layout>
 <section>
             <header className="major">
-							<h1>News</h1>
+							<h1>Reviews</h1>
+              <p>of great games. Mostly.</p>
 						</header>
             <div className="posts">      
-            {JSONData.posts.slice(0).reverse().map((data, index) => {
+            {JSONData.reviews.slice(0).reverse().map((data, index) => {
               // console.log("the index is: " + index)
-             return    <PostItem item={data} key={index} />
+             return    <ReviewItem item={data} key={index} />
        
       }
       )}
