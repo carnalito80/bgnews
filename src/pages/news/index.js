@@ -1,0 +1,28 @@
+import React from 'react';
+
+import Layout from '../../components/Layout';
+import PostItem from '../../components/PostItem';
+import JSONData from "../../data/posts.json"
+
+const JSONbuildtime = () => (
+  <Layout>
+<section>
+            <header className="major">
+							<h1>News</h1>
+						</header>
+            <div className="posts">      
+            {JSONData.posts.slice(0).reverse().map((data, index) => {
+              // console.log("the index is: " + index)
+             return    <PostItem item={data} key={index} />
+       
+      }
+      )}
+         
+    
+           
+         	</div>
+        </section>
+
+  </Layout>//
+)
+export default JSONbuildtime

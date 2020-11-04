@@ -1,0 +1,58 @@
+import React from 'react';
+
+import Layout from '../components/Layout';
+import PostItem from '../components/PostItem';
+import { graphql } from "gatsby"
+
+
+class NewsPage extends React.Component {
+  render() {
+    const { allMongodbBoardgamenewsPosts } = this.props.data
+  
+    return (
+  <Layout>
+        
+        <section>
+            <header className="major">
+							<h2>News</h2>
+						</header>
+            <div className="posts">      
+            { allMongodbBoardgamenewsPosts.edges.map(({ node }) => (
+            
+              <PostItem item={node} key={node.id} />
+            ))
+            }
+         	</div>
+        </section>
+ 
+  </Layout>
+    )
+  }
+}
+
+export default NewsPage;
+
+export const pageQuery = graphql`
+query {
+  allMongodbBoardgamenewsPosts {
+    edges {
+      node {
+        id
+        slug
+        title
+        
+        state
+       
+        content {brief}
+        publishedDate
+        image {url} 
+      
+        heroimg
+        metadescription
+        metakeywords
+        metatitle
+      }
+    }
+  }
+}
+`
