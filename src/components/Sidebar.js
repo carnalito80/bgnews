@@ -10,7 +10,7 @@ class SideBar extends React.Component {
 			isMenuVisible:false,
 			width: 0,
 		};
-		this.updateWindowDimensions = this.updateWindowDimensions.bind(this);
+		
   }
 	componentDidMount() {
 		this.updateWindowDimensions();
