@@ -5,7 +5,11 @@
 ///
 
 /* Image */
+	.img-fluid {
+		max-width: 100%;
+		height: auto;
 
+	}
 	.image {
 		border-radius: _size(border-radius);
 		border: 0;

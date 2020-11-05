@@ -46,8 +46,8 @@ class Layout extends Component {
             <Helmet
               title={data.site.siteMetadata.title}
               meta={[
-                { name: 'description', content: 'Phantom' },
-                { name: 'keywords', content: 'site, web' },
+                { name: 'description', content: 'The news site that delivers relevant board game news and reviews, We also review card games and RPGs.' },
+                { name: 'keywords', content: 'marvel legendary, boardgames, board game reviews, board games, terraforming mars, review, boardgame news, boardgame reviews, dominion, board game news, roleplaying, boardgame-news, boardgamenews' },
               ]}
             >
               <html lang="en" />
