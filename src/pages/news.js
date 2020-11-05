@@ -13,7 +13,7 @@ const JSONbuildtime = () => (
 						</header>
             <div className="posts">      
             {JSONData.posts.slice(0).reverse().map((data, index) => {
-              // console.log("the index is: " + index)
+              
              return    <PostItem item={data} key={index} />
        
       }

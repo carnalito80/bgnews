@@ -4,10 +4,12 @@ const path = require('path');
 const JSONposts = require('./src/data/posts.json');
 const JSONr = require('./src/data/reviews.json');
 const JSONt = require('./src/data/toplists.json');
+const JSONcat = require('./src/data/postcatagories.json');
 exports.createPages = ({ actions }) => {
     const { createPage } = actions;
     const template = path.resolve(`src/templates/Generic.js`);
     const toptemplate = path.resolve(`src/templates/Toplists.js`);
+    const cattemp = path.resolve(`src/templates/Cats.js`);
 
     JSONposts.posts.map((data, index) => {
         if (data.state == 'published') {
@@ -55,22 +57,31 @@ exports.createPages = ({ actions }) => {
     }
 
     });
+    JSONcat.categories.map((data) => {
+       
+       
+        let slugone = '/news/' + data.key;
+        let slugtwo = '/reviews/' + data.key;
+        console.log(slugone);
+            createPage({
+                path: slugone,
+                component: cattemp,
+                context: {
+                    thedata: data,
+                
+                }
+            });
+            createPage({
+                path: slugtwo,
+                component: cattemp,
+                context: {
+                    thedata: data,
+                
+                }
+            });
+   
 
-
-              
-//   JSONposts.posts.map((data, index) => {
-//       console.log(data.slug);
-//                 let theslug = '/posts/' + data.slug;
-//                createPage({
-//                 path: theslug,
-//                 component: template,
-              
-//                 context: {
-//                     path
-//                 }
-//             });
-          
-//         })
+    });
         
     };          
 

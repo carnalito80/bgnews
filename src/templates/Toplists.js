@@ -14,17 +14,17 @@ const IndexPage = props => {
 
   let dejt = Date(thedata.publishedDate.$date.$numberLong).replace('-', '/').split('T')[0].replace('-', '/')
 // let dejt = year + '-' + month + '-' + date;
-  console.log('====================================');
-  console.log(thedata);
-  console.log(JSONData);
-  console.log('====================================');
+  // console.log('====================================');
+  // console.log(thedata);
+  // console.log(JSONData);
+  // console.log('====================================');
 
   JSONData.items.map((data, index) => {
     thedata.listitems.map((theitem) => {
         if (data._id.$oid == theitem.$oid) thearray.push(data);
    });
 });
-console.log( thearray);
+//console.log( thearray);
 
   return (
 

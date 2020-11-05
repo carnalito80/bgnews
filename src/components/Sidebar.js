@@ -10,7 +10,7 @@ class SideBar extends React.Component {
     this.state = {
 			isMenuVisible:false,
 			isToplistsVisible:true,
-			width: 0,
+			width: 800,
 		};
 		this.updateWindowDimensions = this.updateWindowDimensions.bind(this);
 	}
@@ -69,8 +69,8 @@ class SideBar extends React.Component {
 									</header>
 									<ul>
 										<li><a href="/">Home</a></li>
-										<li><a href="/news">News</a></li>
-										<li><a href="/reviews">Reviews</a></li>
+										<li><a href="/news/">News</a></li>
+										<li><a href="/reviews/">Reviews</a></li>
 										<li>
 											<span className={`opener ${isToplistsVisible ? "active" : "inactive"}`} >Toplists</span>
 											<ul>

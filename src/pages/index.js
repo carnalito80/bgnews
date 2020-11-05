@@ -3,10 +3,6 @@ import React from 'react';
 import Layout from '../components/Layout';
 import board2 from '../assets/images/board2.jpg';
 
-
-
-import { Link } from 'gatsby';
-
 const IndexPage = () => (
   <Layout>
           <h1>Welcome to Boardgame-news.com</h1>

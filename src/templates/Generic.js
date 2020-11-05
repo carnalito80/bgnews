@@ -48,11 +48,11 @@ const IndexPage = props => {
   //   'November',
   //   'December'
   // ]
-  let dejt = Date(thedata.publishedDate.$date.$numberLong).replace('-', '/').split('T')[0].replace('-', '/')
+  let dejt = Date(thedata.publishedDate.$date.$numberLong);
 // let dejt = year + '-' + month + '-' + date;
-  console.log('====================================');
-  console.log(thedata);
-  console.log('====================================');
+  // console.log('====================================');
+  // console.log(thedata);
+  // console.log('====================================');
   return (
 
   <Layout>
@@ -63,9 +63,7 @@ const IndexPage = props => {
                 { name: 'keywords', content: thedata.metakeywords },
               ]}
             >
-              <html lang="en" />
-              
-
+           
             </Helmet>
     <article>
      
