@@ -7,8 +7,8 @@
     "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-phantom.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "JK",
+    "email": "jk@boardgame-news.com"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
@@ -23,7 +23,7 @@
     "react-images": "^1.1.0",
     "react-scrollspy": "^3.4.2",
     "smoothscroll-polyfill": "^0.4.4",
-    "gatsby-plugin-google-gtag": "2.1.13"
+    "gatsby-plugin-google-analytics": "2.4.0"
   },
   "scripts": {
     "develop": "gatsby develop",
