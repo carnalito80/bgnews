@@ -22,7 +22,8 @@
     "react-helmet": "^5.2.1",
     "react-images": "^1.1.0",
     "react-scrollspy": "^3.4.2",
-    "smoothscroll-polyfill": "^0.4.4"
+    "smoothscroll-polyfill": "^0.4.4",
+    "gatsby-plugin-google-gtag": "2.1.13"
   },
   "scripts": {
     "develop": "gatsby develop",

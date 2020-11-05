@@ -1,31 +1,23 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter phantom', // <title>
-  manifestName: 'Phantom',
-  manifestShortName: 'Landing', // max 12 characters
+  siteTitle: 'BoardGame-News', // <title>
+  manifestName: 'BoardGame-News',
+  manifestShortName: 'BoardGame-News', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.svg',
   pathPrefix: `/gatsby-starter-phantom/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav Srivastava',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  heading: 'BoardGame-News',
+  subHeading: 'Your goto in the worlds greatest hobby',
   // social
   socialLinks: [
-    {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    },
+   
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://twitter.com/bboardgame_news1',
     },
-    {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
-    },
+    
   ],
 };

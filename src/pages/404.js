@@ -11,6 +11,7 @@ const IndexPage = () => (
         </header>
         <section>
           <h4>Not a valid URL</h4>
+          <p><a href="/">Click here to return to boardgame-news.com</a></p>
         </section>
       </div>
     </div>
