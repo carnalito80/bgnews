@@ -3,12 +3,17 @@ import Helmet from 'react-helmet';
 import Layout from '../components/Layout';
 
 import Categories from '../components/Categories';
+import Files from '../components/Files';
 import parse from 'html-react-parser';
 
 const IndexPage = props => {
   const {pageContext} = props;
   const {thedata} = pageContext;
   let salez;
+
+  if (thedata.author.$oid == '5ce1aa379fe50a72bf2b659d') thedata.author.$oid = 'Callan Bond';
+  else if (thedata.author.$oid == '5cc601b2ff87165e3136935d') thedata.author.$oid = 'William Aukes';
+  else if (thedata.author.$oid == '5e7cad8d9062bd0dd4d2fd99') thedata.author.$oid = 'Jonathan Nelson';
 
   if(thedata.salelinks) {
           salez = thedata.salelinks.map((item) =>
@@ -27,32 +32,18 @@ const IndexPage = props => {
     // let thereturn = '<a rel="nofollow noreferrer" target="_blank" href=' + sale + 'className="button primary">' + salename + '</a>'; 
     return salename
  } 
-			
 
   let contentz = parse(thedata.content.extended)
-  //  var d = Date(thedata.publishedDate.$date.$numberLong);
-  //  var year = d.getFullYear();
-  //  var date = d.getDate();
-  //  var month = d.getMonth();
-  //  const months = [
-  //   'January',
-  //   'February',
-  //   'March',
-  //   'April',
-  //   'May',
-  //   'June',
-  //   'July',
-  //   'August',
-  //   'September',
-  //   'October',
-  //   'November',
-  //   'December'
-  // ]
-  let dejt = Date(thedata.publishedDate.$date.$numberLong);
-// let dejt = year + '-' + month + '-' + date;
-  // console.log('====================================');
-  // console.log(thedata);
-  // console.log('====================================');
+ 
+  let dejt = new Intl.DateTimeFormat("en-GB", {
+    year: "numeric",
+    month: "long",
+    day: "2-digit"
+  }).format(thedata.publishedDate.$date.$numberLong);
+
+  console.log('====================================');
+  console.log(thedata);
+  console.log('====================================');
   return (
 
   <Layout>
@@ -100,15 +91,39 @@ const IndexPage = props => {
         </div>
         
         <div id="content"> {contentz}</div>
+
+
+      {thedata.files.length > 0  ? 
+       <div className="row">
+        <div className="col-12">
+        <section className="box">
+       <h3>Files</h3>
+      <Files item={thedata.files} key={thedata.files} />
+      </section>
+      </div>
+     </div>
+        : ""}
+       
+
+        {/* sales section  */}
         <div className="row gtr-200">
-        <p><strong>{thedata.saletext}</strong></p>
+          <p><strong>{thedata.saletext}</strong></p>
         </div>
+
         <div className="row gtr-200">
           <div className="col-6 col-8-medium col-12-small">
               <ul className="actions fit">
                 {salez}
             </ul>
           </div>          
+        </div>
+        <div className="row gtr-200">
+          <p><strong>Return to <span>
+          {thedata.posttype == 'news' ? <a href="/news/"> News</a> 
+          : thedata.posttype == 'reviews' ? <a href="/reviews/"> Reviews</a>  
+          : <a href="/reviews/"> Board game news</a>}
+            
+            </span></strong></p>
         </div>
       
     </article>

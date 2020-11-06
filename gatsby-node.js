@@ -14,6 +14,7 @@ exports.createPages = ({ actions }) => {
     JSONposts.posts.map((data, index) => {
         if (data.state == 'published') {
         let theslug = '/news/post/' + data.slug;
+        data.posttype = 'news';
         console.log(theslug);
             createPage({
                 path: theslug,
@@ -29,13 +30,14 @@ exports.createPages = ({ actions }) => {
        
         if (data.state == 'published') {
         let theslug = '/reviews/details/' + data.slug;
+        data.posttype = 'reviews';
         console.log(theslug);
             createPage({
                 path: theslug,
                 component: template,
                 context: {
                     thedata: data,
-                
+                    
                 }
             });
     }

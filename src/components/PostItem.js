@@ -7,13 +7,18 @@ class PostItem extends React.Component {
     let contentz = parse(item.content.brief)
    
     // let dejt = Date(item.publishedDate.$date.$numberLong).replace('-', '/').split('T')[0].replace('-', '/')
-    let dejt = Date(item.publishedDate.$date.$numberLong)
+    let dejt = new Intl.DateTimeFormat("en-GB", {
+      year: "numeric",
+      month: "long",
+      day: "2-digit"
+    }).format(item.publishedDate.$date.$numberLong)
+
     return (
     
       <article>
       <a href={`/news/post/${item.slug}/`} className="image"><img src={item.image.secure_url} alt={item.image.title} /></a>
                    <h3>{item.title}</h3>
-                   <i>Posted {dejt }</i><br></br>
+                   <i>Posted {dejt }</i> by {item.author.$oid} <br></br>
                       <div className="text-wrapper">
                       { contentz}
                       

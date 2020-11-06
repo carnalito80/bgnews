@@ -12,7 +12,13 @@ const IndexPage = props => {
   let contentz = parse(thedata.description)
   let thearray = [];
 
-  let dejt = Date(thedata.publishedDate.$date.$numberLong).replace('-', '/').split('T')[0].replace('-', '/')
+ // let dejt = Date(thedata.publishedDate.$date.$numberLong).replace('-', '/').split('T')[0].replace('-', '/')
+
+ let dejt = new Intl.DateTimeFormat("en-GB", {
+  year: "numeric",
+  month: "long",
+  day: "2-digit"
+}).format(thedata.publishedDate.$date.$numberLong);
 // let dejt = year + '-' + month + '-' + date;
   // console.log('====================================');
   // console.log(thedata);

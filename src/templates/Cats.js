@@ -26,7 +26,7 @@ console.log(thearray)
       <Helmet
               title={thedata.metatitle ? thedata.metatitle : thedata.name }
               meta={[
-                { name: 'description', content: thedata.metadescription },
+                { name: 'description', content: thedata.metadescription ? thedata.metadescription : 'Posts about ' + thedata.name},
                 { name: 'keywords', content: thedata.metakeywords },
               ]}
             >
@@ -34,8 +34,8 @@ console.log(thearray)
             </Helmet>
 <section>
             <header className="major">
-							<h1>{thedata.metatitle}</h1>
-              <p>{thedata.metadescription}</p>
+							<h1>{thedata.metatitle ? thedata.metatitle : thedata.name}</h1>
+              <p>{thedata.metadescription ? thedata.metadescription : 'Posts about ' + thedata.name}</p>
 						</header>
             <div className="posts">
             {thearray.map((data, index) => {
