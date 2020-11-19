@@ -3,13 +3,45 @@ import Helmet from 'react-helmet';
 import Layout from '../components/Layout';
 import PostItem from '../components/PostItem';
 import JSONData from "../data/posts.json"
+import { useStaticQuery, graphql} from 'gatsby'
 
+
+  const IndexPage = (props) => {
+
+
+    const data = useStaticQuery(graphql`
+    query {
+      allMarkdownRemark(
+        sort: { order: DESC, fields: [frontmatter___date] }
+        filter: { frontmatter: {active: {eq: true}} }
+        ) {
+        edges {
+          node {
+            id
+            excerpt(pruneLength: 250)
+            frontmatter {
+              date(formatString: "MMMM DD, YYYY")
+              slug
+              title
+              image
+              categories
+              content_brief
+            }
+          }
+        }
+      }
+    }
+  `)
  
-  const IndexPage = props => {
+  console.log(data.allMarkdownRemark.edges)
+  console.log(props)
   const {pageContext} = props;
   const {thedata} = pageContext;
+  
+
   let thearray = []; //all posts with this cat goes here
-  console.log(thedata)
+  console.log(thedata);
+  
 
   JSONData.posts.slice(0).reverse().map((data, index) => {
             data.categories.map((thecat) => {
@@ -38,6 +70,11 @@ console.log(thearray)
               <p>{thedata.metadescription ? thedata.metadescription : 'Posts about ' + thedata.name}</p>
 						</header>
             <div className="posts">
+            {data.allMarkdownRemark.edges.map(edge => {
+            
+            return    <PostItem key={edge.node.id} item={edge.node} />
+        
+        } )}
             {thearray.map((data, index) => {
                return <PostItem item={data} key={index} />
             }

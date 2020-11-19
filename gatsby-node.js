@@ -5,11 +5,13 @@ const JSONposts = require('./src/data/posts.json');
 const JSONr = require('./src/data/reviews.json');
 const JSONt = require('./src/data/toplists.json');
 const JSONcat = require('./src/data/postcatagories.json');
-exports.createPages = ({ actions }) => {
+
+exports.createPages = async ({ actions, graphql, reporter }) => {
     const { createPage } = actions;
     const template = path.resolve(`src/templates/Generic.js`);
     const toptemplate = path.resolve(`src/templates/Toplists.js`);
     const cattemp = path.resolve(`src/templates/Cats.js`);
+    const markdowntemplate = require.resolve(`./src/templates/Markdown.js`)
 
     JSONposts.posts.map((data, index) => {
         if (data.state == 'published') {
@@ -84,6 +86,39 @@ exports.createPages = ({ actions }) => {
    
 
     });
+    const result = await graphql(`
+    {
+      allMarkdownRemark(
+        filter: { frontmatter: {active: {eq: true}} }
+        sort: { order: DESC, fields: [frontmatter___date] }
+        limit: 1000
+      ) {
+        edges {
+          node {
+            frontmatter {
+              date(formatString: "MMMM DD, YYYY")
+              slug
+            }
+          }
+        }
+      }
+    }
+  `)
+  // Handle errors
+  if (result.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query.`)
+    return
+  }
+  result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    createPage({
+      path: node.frontmatter.slug,
+      component: markdowntemplate,
+      context: {
+        // additional data can be passed via context
+        slug: node.frontmatter.slug,
+      },
+    })
+  })
         
     };          
 

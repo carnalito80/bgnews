@@ -15,14 +15,15 @@ module.exports = {
       resolve: `gatsby-source-mongodb`,
       options: { dbName: `boardgame-news`, collection: [`reviews`, `postcategories`, `posts`] },
     },
-    `gatsby-transformer-json`,
+    `gatsby-transformer-json`, */
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `./src/data/`,
+        name: `markdown-pages`,
+        path: `${__dirname}/src/markdown`,
       },
     },  
-     */
+    `gatsby-transformer-remark`,
     {
     resolve: `gatsby-plugin-google-analytics`,
     options: {
