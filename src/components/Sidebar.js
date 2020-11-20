@@ -16,7 +16,7 @@ class SideBar extends React.Component {
 	}
 	
 	componentDidMount() {
-		// this.updateWindowDimensions();
+		//  this.updateWindowDimensions();
 		window.addEventListener('resize', this.updateWindowDimensions);
 	}
 	
