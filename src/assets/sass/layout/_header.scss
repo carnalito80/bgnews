@@ -22,10 +22,14 @@
 			color: inherit;
 			font-family: _font(family-heading);
 			font-size: 1.125em;
+			line-height: 130px;
 		}
 
 		.icons {
 			text-align: right;
+		}
+		a {
+			border: 0;
 		}
 
 		@include breakpoint('<=xlarge') {

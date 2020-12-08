@@ -11,9 +11,9 @@ const IndexPage = props => {
   const {thedata} = pageContext;
   let salez;
 
-  if (thedata.author.$oid == '5ce1aa379fe50a72bf2b659d') thedata.author.$oid = 'Callan Bond';
-  else if (thedata.author.$oid == '5cc601b2ff87165e3136935d') thedata.author.$oid = 'William Aukes';
-  else if (thedata.author.$oid == '5e7cad8d9062bd0dd4d2fd99') thedata.author.$oid = 'Jonathan Nelson';
+  if (thedata.author.$oid === '5ce1aa379fe50a72bf2b659d') thedata.author.$oid = 'Callan Bond';
+  else if (thedata.author.$oid === '5cc601b2ff87165e3136935d') thedata.author.$oid = 'William Aukes';
+  else if (thedata.author.$oid === '5e7cad8d9062bd0dd4d2fd99') thedata.author.$oid = 'Jonathan Nelson';
 
   if(thedata.salelinks) {
           salez = thedata.salelinks.map((item) =>
@@ -119,8 +119,8 @@ const IndexPage = props => {
         </div>
         <div className="row gtr-200">
           <p><strong>Return to <span>
-          {thedata.posttype == 'news' ? <a href="/news/"> News</a> 
-          : thedata.posttype == 'reviews' ? <a href="/reviews/"> Reviews</a>  
+          {thedata.posttype === 'news' ? <a href="/news/"> News</a> 
+          : thedata.posttype === 'reviews' ? <a href="/reviews/"> Reviews</a>  
           : <a href="/reviews/"> Board game news</a>}
             
             </span></strong></p>

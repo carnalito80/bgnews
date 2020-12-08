@@ -14,7 +14,7 @@ categories:
 image: /images/kings.jpg
 metakeywords: Marvel Legendary, marvel realm of kings, marvel legendary realm of kings, legendary marvel realm of kings
 metadescription: Another expansion for Legendary is out believe it or not :)
-content_brief: Another expansion is due..
+content_brief:  Another expansion for Legendary is out believe it or not, check it out here.
 saletext: This expansion has been released, get it at these vendors.
 salelinks: 
     - https://www.gamenerdz.com/legendary-dbg-marvel-realm-of-kings-expansion?aff=34

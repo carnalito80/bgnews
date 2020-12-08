@@ -234,8 +234,8 @@ function salename(sale) {
         </div>
         <div className="row gtr-200">
           <p><strong>Return to <span>
-          {frontmatter.posttype == 'news' ? <a href="/news/"> News</a> 
-          : frontmatter.posttype == 'reviews' ? <a href="/reviews/"> Reviews</a>  
+          {frontmatter.posttype === 'news' ? <a href="/news/"> News</a> 
+          : frontmatter.posttype === 'reviews' ? <a href="/reviews/"> Reviews</a>  
           : <a href="/reviews/"> Board game news</a>}
             
             </span></strong></p>

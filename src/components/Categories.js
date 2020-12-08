@@ -7,18 +7,18 @@ class Categories extends React.Component {
   render() {
     const cats = this.props.item
     var catsmark = []
-    var x = 0
+    //var x = 0
     {JSONcats.categories.map((data, index) => {
         cats.map((thecat) => {
           if (thecat.$oid) {
-            if (data._id.$oid == thecat.$oid) {
+            if (data._id.$oid === thecat.$oid) {
                 thecat.name = data.name;
                 thecat.slug = data.key;
             }
           }
           else {
             
-            if (data.key == thecat) {
+            if (data.key === thecat) {
               // console.log('HOI!')
               var current = {}
               current.name = data.name

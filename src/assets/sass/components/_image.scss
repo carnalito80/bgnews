@@ -3,7 +3,20 @@
 /// html5up.net | @ajlkn
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
+.amazon-add {
+	max-height: 7em;
+	border: 0px;
+}
+.figcaption-add {
+	font-size: 14px;
+	font-style: italic;
+	margin: 0;
+	padding-top: 10px;
+		border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	display: block;
 
+}
 //figures
 .figure-img {
 	margin-bottom: 0.5rem;
