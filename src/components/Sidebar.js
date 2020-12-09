@@ -91,7 +91,7 @@ class SideBar extends React.Component {
 									</header>
 									<p>Any questions you might have regarding the content or the site itself, feel free to reach out. Just say Hi works too. :) </p>
 									<ul className="contact">
-										<li className="icon solid fa-envelope"><a href="#">jk@boardgame-news.com</a></li>
+										<li className="icon solid fa-envelope">jk@boardgame-news.com</li>
 										<li className="icon solid fa-star"><a href="https://smashbomb.com/boardgamenews">smashbomb profile</a></li>
 										<li className="icon solid brands fa-twitter"><a rel="nofollow norefferer" href="https://twitter.com/boardgame_news1">@boardgame_news1</a></li>
 									

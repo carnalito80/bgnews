@@ -184,12 +184,12 @@ function salename(sale) {
       </header>
         
         <div className="row gtr-200">
-          <div className="col-6 col-12-small">
+          <div className="col-5 col-12-small">
             <span className="image main">
               <img src={frontmatter.image} alt={frontmatter.title} />
             </span>
           </div>
-          <div className="col-6 col-12-small">
+          <div className="col-7 col-12-small">
             <h5>Posted { frontmatter.date } by {frontmatter.author}</h5>
             {<Categories item={frontmatter.categories} key={frontmatter.categories} /> }
             <ul className="alt">
@@ -264,6 +264,11 @@ function salename(sale) {
         saletext
         files
         posttype
+        designer
+        publisher
+        playercount
+        playtime
+        age
 
       }
     }

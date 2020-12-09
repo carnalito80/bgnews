@@ -3,6 +3,7 @@ import Helmet from 'react-helmet';
 import Layout from '../components/Layout';
 import PostItem from '../components/PostItem';
 import JSONData from "../data/posts.json"
+import JSONData2 from "../data/reviews.json"
 import { useStaticQuery, graphql} from 'gatsby'
 
 
@@ -26,6 +27,7 @@ import { useStaticQuery, graphql} from 'gatsby'
               image
               categories
               content_brief
+              posttype
             }
           }
         }
@@ -33,26 +35,41 @@ import { useStaticQuery, graphql} from 'gatsby'
     }
   `)
  
-  console.log(data.allMarkdownRemark.edges)
-  console.log(props)
+  // console.log(data.allMarkdownRemark.edges)
+  // console.log(props)
   const {pageContext} = props;
   const {thedata} = pageContext;
   
 
   let thearray = []; //all posts with this cat goes here
-  console.log(thedata);
+ // console.log(thedata);
   
 
   JSONData.posts.slice(0).reverse().map((data, index) => {
+            data.posttype  = 'news'
+     
             data.categories.map((thecat) => {
-              if (thecat.$oid == thedata._id.$oid) {
-                console.log('yay');
+              if (thecat.$oid === thedata._id.$oid) {
+                //console.log('yay');
+                
                 thearray.push(data);
               }
         });
    
 });
-console.log(thearray)
+
+JSONData2.reviews.slice(0).reverse().map((data, index) => {
+  data.posttype  = 'review'
+
+  data.categories.map((thecat) => {
+    if (thecat.$oid === thedata._id.$oid) {
+      console.log('yay');
+      thearray.push(data);
+    }
+});
+
+});
+thearray.sort((a, b) => b.publishedDate.$date.$numberLong - a.publishedDate.$date.$numberLong)
   return (
   <Layout>
       <Helmet
@@ -72,7 +89,7 @@ console.log(thearray)
             <div className="posts">
             {data.allMarkdownRemark.edges.map(edge => {
             
-            return    <PostItem key={edge.node.id} item={edge.node} />
+            return  <PostItem key={edge.node.id} item={edge.node} />
         
         } )}
             {thearray.map((data, index) => {

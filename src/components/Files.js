@@ -12,7 +12,7 @@ class Files extends React.Component {
     JSONfiles.files.map((data) => {
 
         files.map((thefile) => {
-            if (data._id.$oid == thefile.$oid) {
+            if (data._id.$oid === thefile.$oid) {
                 thefile.name = data.name;
                 thefile.description = data.description;
                 thefile.link = data.linkedfile;

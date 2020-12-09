@@ -3,6 +3,7 @@ import React from 'react';
 import Layout from '../components/Layout';
 import PostItem from '../components/PostItem';
 import JSONData from "../data/posts.json"
+import { graphql } from 'gatsby'
 
 const JSONbuildtime = ({
   data: {
@@ -41,7 +42,7 @@ export const pageQuery = graphql`
   query {
     allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: {active: {eq: true}} }
+      filter: { frontmatter: {active: {eq: true}, posttype: {eq: "news"} } }
       ) {
       edges {
         node {

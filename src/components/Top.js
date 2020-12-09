@@ -27,7 +27,7 @@ export default function Top() {
     </a>
     </div>
     <div className="col-2 col-3-small">
-    <a target="_blank" rel="nofollow noreferrer"  href="https://www.amazon.com/gp/product/B084GP7X3P/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084GP7X3P&linkCode=as2&tag=boardgamene01-20&linkId=3da7d64ba2f5c93faffcb3eb544725ed">
+    <a target="_blank" rel="nofollow noreferrer" href="https://www.amazon.com/gp/product/B084GP7X3P/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084GP7X3P&linkCode=as2&tag=boardgamene01-20&linkId=3da7d64ba2f5c93faffcb3eb544725ed">
     <figure>
     <img alt="The Crew at amazon" className="amazon-add" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B084GP7X3P&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=boardgamene01-20" >
     </img>
@@ -36,11 +36,11 @@ export default function Top() {
     </a>
     </div>
     <div className="col-2 col-3-small">
-    <a target="_blank"  href="https://www.amazon.com/gp/product/B001PQLNY0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001PQLNY0&linkCode=as2&tag=boardgamene01-20&linkId=eee7543f6b6bc67def48174d4911c893">
+    <a target="_blank" rel="nofollow noreferrer" href="https://www.amazon.com/dp/B08F65MX4L/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=boardgamene01-20&linkId=62e918f47cbd7ae0256b4dfd760b75fc&language=en_US">
     <figure>
-    <img alt="For Sale at Amazon" className="amazon-add" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001PQLNY0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=boardgamene01-20" >
+    <img alt="7 Wonders at Amazon" className="amazon-add" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08F65MX4L&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=boardgamene01-20&language=en_US" >
     </img>
-    <figcaption className="figcaption-add">For Sale</figcaption>
+    <figcaption className="figcaption-add">7 Wonders</figcaption>
     </figure>
     </a>
     </div>

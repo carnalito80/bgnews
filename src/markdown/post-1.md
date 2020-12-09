@@ -1,10 +1,11 @@
 ---
 active: true
-slug: "/news/post/marvel-legendary-realm-of-kings"
+slug: "/news/marvel-legendary-realm-of-kings"
 date: "2019-11-15"
 title: "Marvel Legendary: Realm of Kings"
 posttype: news
 author: Jay Kay
+designer: Devin Low
 categories: 
     - legendary
     - expansion
@@ -13,8 +14,8 @@ categories:
     - games-we-love
 image: /images/kings.jpg
 metakeywords: Marvel Legendary, marvel realm of kings, marvel legendary realm of kings, legendary marvel realm of kings
-metadescription: Another expansion for Legendary is out believe it or not :)
-content_brief:  Another expansion for Legendary is out believe it or not, check it out here.
+metadescription: Another expansion for Legendary is out, believe it or not :)
+content_brief:  Another expansion for Legendary is out, believe it or not, check it out here.
 saletext: This expansion has been released, get it at these vendors.
 salelinks: 
     - https://www.gamenerdz.com/legendary-dbg-marvel-realm-of-kings-expansion?aff=34

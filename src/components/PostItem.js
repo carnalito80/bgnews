@@ -11,12 +11,19 @@ class PostItem extends React.Component {
     let author = 'Jay Kay'
     let title
     let slug
+    let ismark
+    let posttype
   
 
  //JSON stuff here
     if (item.content) {
+      posttype = item.posttype
+      if (posttype === 'review' || posttype === 'reviews') slug = '/reviews/details/' + item.slug
+      else if (posttype === 'news') slug = '/news/post/' + item.slug
+      else slug = '/news/post/' + item.slug
+      posttype = posttype.charAt(0).toUpperCase() + posttype.slice(1)
       contentz = parse(item.content.brief)
-
+      ismark = false
       dejt = Date(item.publishedDate.$date.$numberLong).replace('-', '/').split('T')[0].replace('-', '/')
       dejt = new Intl.DateTimeFormat("en-GB", {
         year: "numeric",
@@ -28,12 +35,19 @@ class PostItem extends React.Component {
       author  = item.author.$oid
       imagealt = item.image.title
       title = item.title
-      slug = '/news/post/' + item.slug
+
+      
 
     }
         
 //Markdown
     else {
+      if (item.frontmatter.posttype && item.frontmatter.posttype.length > 0) {
+      posttype = item.frontmatter.posttype
+      posttype = posttype.charAt(0).toUpperCase() + posttype.slice(1)
+      }
+      else posttype = 'News'
+      ismark = true
       if (item.frontmatter.content_brief.length > 5)  contentz =item.frontmatter.content_brief
       else contentz = item.excerpt
       dejt = item.frontmatter.date
@@ -47,11 +61,11 @@ class PostItem extends React.Component {
       <article>
       <a href={slug} className="image"><img src={imageurl} alt={imagealt} /></a>
                    <h3>{title}</h3>
-                   <i>Posted {dejt } by {author} </i><br></br>
+                   <i>{posttype} posted {dejt } by {author} </i><br></br>
                       <div className="text-wrapper">
                     
                        <div className="paragraph">
-                        {contentz}
+                       {ismark? <p> {contentz} </p> : contentz }
                         </div>
                       
                       

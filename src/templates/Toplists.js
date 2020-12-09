@@ -27,7 +27,7 @@ const IndexPage = props => {
 
   JSONData.items.map((data, index) => {
     thedata.listitems.map((theitem) => {
-        if (data._id.$oid == theitem.$oid) thearray.push(data);
+        if (data._id.$oid === theitem.$oid) thearray.push(data);
    });
 });
 //console.log( thearray);
