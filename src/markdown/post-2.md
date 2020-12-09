@@ -21,10 +21,10 @@ image: https://res.cloudinary.com/aaassdd33333/image/upload/v1607526844/cosmos.j
 metakeywords: Marvel Legendary Into the Cosmos, marvel into the cosmos, legendary into the cosmos,  legendary into the cosmos deluxe, into the cosmos deluxe, into the cosmos deluxe edition, Marvel Legendary Into the Cosmos review, Legendary into the cosmos review
 metadescription: This expansion can be considered the sequel to the classic expansion "Guardians of the Galaxy" that came out in 2014, with goodies like shards and more heroes for the GoG roster. Check out this review of Into the Cosmos.
 content_brief: This expansion can be considered the sequel to the classic expansion "Guardians of the Galaxy" that came out in 2014, with goodies like shards and more heroes for the GoG roster.
-saletext: Get it, it's out now..
+saletext: Get it at these vendors
 salelinks: 
-    - https://www.gamenerdz.com/legendary-dbg-marvel-new-mutants-expansion-preorder?aff=34
-    - https://amzn.to/2yCgNUY
+    - https://www.gamenerdz.com/legendary-dbg-marvel-into-the-cosmos-expansion-preorder?aff=34
+    - https://www.amazon.com/gp/product/B08GFKSGMK/ref=as_li_tl?ie=UTF8&tag=boardgamene01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08GFKSGMK&linkId=d7f7538dde47ea09cb0340e9268ccfd5
 files: 0
 ---
 
@@ -95,7 +95,7 @@ We have a two more Villain groups i want to mention, *Celestials* which are supe
     </div>
 </div>
 
-### OPNION
+### OPINION
 #### The good
 - The return of **Shards** was very welcome. Adds a new dimension of tactics to the game.
 - Into the Cosmos has some cool schemes and Masterminds, Magus being our favorite.
