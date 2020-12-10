@@ -44,8 +44,10 @@ class Layout extends Component {
         render={data => (
           <>
             <Helmet
+          
               title={data.site.siteMetadata.title}
               meta={[
+                { name: "google-site-verification", content: "HftHEKvnrsmWPwyIvBhI39qm00ArkHOE6zNpIiJYF80" },
                 { name: 'description', content: 'The news site that delivers relevant board game news and reviews, We also review card games and RPGs.' },
                 { name: 'keywords', content: 'marvel legendary, boardgames, board game reviews, board games, terraforming mars, review, boardgame news, boardgame reviews, dominion, board game news, roleplaying, boardgame-news, boardgamenews' },
               ]}
