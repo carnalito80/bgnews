@@ -50,7 +50,7 @@ As usual, there are a couple of new mechanics and the return of some old ones. O
 
  #### New keywords
  
-- **Shards**. These are tokens that you can spend to get +1 Strenth. You will gain them from card effects. There are a couple provided in the box, the ammount is supposed to be unlimited, but expect to run out of them. You can pretty much use anything as substitute for them though, and we would recommend that you buy some nice [replacements](https://amzn.to/37RCYEj) tokens in form of chrystals. As you can stack up Shards, they are very powerful indeed when it comes to taking down masterminds. Great stuff!
+- **Shards**. These are tokens that you can spend to get +1 Strenth. You will gain them from card effects. There are a couple provided in the box, the ammount is supposed to be unlimited, but expect to run out of them. You can pretty much use anything as substitute for them though, and we would recommend that you buy some nice [replacement](https://amzn.to/37RCYEj) tokens in form of chrystals. As you can stack up Shards, they are very powerful indeed when it comes to taking down masterminds. Great stuff!
 - **Burn [x] Shards**. This is a new mechanic which lets you use your shards in other ways than just for raw strength. Like drawing cards for an example. A very welcome mechanic. 
 - **Danger Sense**. This keyword returns from the *Spiderman Homecoming* set. This mechanic let's you look at the top cards of the villain deck and get plus attack per villain revealed. A bit fiddly, but can be very useful in terms of knowing what is in store the next two rounds.
 - **Cosmic Threat**. This keyword makes the enemy weaker if you have the right type class on of heroes when attacking the villain or mastermind who is the target. In fact, they get -3 strength per card you reveal, which is A LOT. But, the bad guys which this keyword is generally very powerful (approx 10+ for Villains and 20+ for Masterminds), so these has to be taken down with the right team. Thematicly cool. It would have make little sense to have bad guys on a cosmic scale as weak as "normal" bad guys, and it wouldn't have been any fun to make them invinsible. So this is a nice compromise, so to speak.
@@ -107,6 +107,6 @@ We have a two more Villain groups i want to mention, *Celestials* which are supe
 - The Shard tokens are not the best quality, but that is easily remedied by using something else.
 
 ### CONCLUSION
-Overall a very nice addition to the game, well worth getting your hands on, especially if you like the Guardian of the Galaxy expansion, or if you are fan of the story lines contained in this box.  
+Overall a very nice addition to the game, well worth getting your hands on, especially if you like the Guardians of the Galaxy expansion, or if you are fan of the story lines contained in this box.  
 **Rating: 8/10**  
 *Thanks to Upper Deck who were nice enough to send me a copy to review!*
