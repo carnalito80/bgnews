@@ -13,7 +13,7 @@ image: https://res.cloudinary.com/aaassdd33333/image/upload/v1609078780/pic57572
 metakeywords: auztralia tazmania, tazmania, auztralia expansion, auztralia expansion 2021
 metadescription: AuZtralia TaZmania is a dual map expansion for AuZtralia that is designed for 1 or 2 players, that differs from the larget map in the base game in this regard.
 content_brief: AuZtralia TaZmania is a dual map expansion for AuZtralia that is designed for 1 or 2 players, that differs from the larget map in the base game in this regard.
-saletext: This expansion has not been released, bu get the great ase game at these vendors
+saletext: This expansion has not been released, but do get the great base game at these vendors
 salelinks: 
     - https://www.gamenerdz.com/auztralia?aff=34
     - https://amzn.to/3mNDHMh
