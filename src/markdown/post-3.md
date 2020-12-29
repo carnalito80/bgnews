@@ -1,7 +1,7 @@
 ---
 active: true
 slug: "/news/tazmania-auztalia-expansion"
-date: "2019-12-25"
+date: "2020-12-25"
 title: "AuZtralia: TaZmania"
 posttype: news
 author: Jay Kay
@@ -9,6 +9,7 @@ designer: Martin Wallace
 categories: 
     - expansion
     - fantasy
+    - cooperative-play
 image: https://res.cloudinary.com/aaassdd33333/image/upload/v1609078780/pic5757269.jpg
 metakeywords: auztralia tazmania, tazmania, auztralia expansion, auztralia expansion 2021
 metadescription: AuZtralia TaZmania is a dual map expansion for AuZtralia that is designed for 1 or 2 players, that differs from the larget map in the base game in this regard.

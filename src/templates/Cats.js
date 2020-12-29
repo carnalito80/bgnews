@@ -40,30 +40,32 @@ import { useStaticQuery, graphql} from 'gatsby'
   const {pageContext} = props;
   const {thedata} = pageContext;
   
-
-  let thearray = []; //all posts with this cat goes here
- // console.log(thedata);
   
 
+  let thearray = []; //all posts with this cat goes here
+
+  //lets start with the posts array
+  
   JSONData.posts.slice(0).reverse().map((data, index) => {
             data.posttype  = 'news'
      
             data.categories.map((thecat) => {
               if (thecat.$oid === thedata._id.$oid) {
-                //console.log('yay');
-                
+              
                 thearray.push(data);
               }
         });
    
 });
 
+//lets continue with the reviews
+
 JSONData2.reviews.slice(0).reverse().map((data, index) => {
   data.posttype  = 'review'
 
   data.categories.map((thecat) => {
     if (thecat.$oid === thedata._id.$oid) {
-      console.log('yay');
+      
       thearray.push(data);
     }
 });
@@ -81,15 +83,24 @@ thearray.sort((a, b) => b.publishedDate.$date.$numberLong - a.publishedDate.$dat
             >
            
             </Helmet>
-<section>
+          <section>
             <header className="major">
 							<h1>{thedata.metatitle ? thedata.metatitle : thedata.name}</h1>
               <p>{thedata.metadescription ? thedata.metadescription : 'Posts about ' + thedata.name}</p>
 						</header>
             <div className="posts">
+          
             {data.allMarkdownRemark.edges.map(edge => {
-            
-            return  <PostItem key={edge.node.id} item={edge.node} />
+              //finally the markdown, we filter it below.
+                      for (let x = 0; x < edge.node.frontmatter.categories.length; x++) {
+                        if (edge.node.frontmatter.categories[x] == thedata.key) {
+                         
+                          return  <PostItem key={edge.node.id} item={edge.node} />
+                        }
+
+                      }
+                    
+          
         
         } )}
             {thearray.map((data, index) => {
