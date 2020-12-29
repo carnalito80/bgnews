@@ -1,11 +1,13 @@
 import React from 'react';
+export default function TopGeneric() {
 
-export default function Top() {
+
   return (
+ 
     <header id="header">
     <div  className="row">
       <div className="col-4 col-12-medium">
-       <a href="/" className="logo"><strong>BGN Christmas-gift picks:</strong></a>
+       <a href="/" className="logo"><strong>Bordgame News current gift-picks:</strong></a>
       
       </div>
       <div className="col-2 col-3-small">
@@ -49,4 +51,5 @@ export default function Top() {
     </div>
   </header>
   );
+
 }

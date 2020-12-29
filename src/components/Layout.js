@@ -4,9 +4,16 @@ import Helmet from 'react-helmet';
 import { StaticQuery, graphql } from 'gatsby';
 
 import '../assets/sass/main.scss';
-import Top from './Top';
+import TopGeneric from './TopGeneric';
+import TopLegendary from './TopLegendary';
 import Sidebar from './Sidebar';
 
+var topadd = <TopGeneric />;
+const url = typeof window !== 'undefined' ? window.location.href : '';
+if (url.search('legendary') >= 0 ) topadd =  <TopLegendary />;
+console.log(topadd);
+console.log(url);
+console.log(url.search('legendary'))
 class Layout extends Component {
   constructor(props) {
     super(props);
@@ -30,6 +37,7 @@ class Layout extends Component {
   render() {
     const { children } = this.props;
     const { isPreloaded } = this.state;
+  
     return (
       <StaticQuery
         query={graphql`
@@ -37,6 +45,8 @@ class Layout extends Component {
             site {
               siteMetadata {
                 title
+                description
+               
               }
             }
           }
@@ -44,7 +54,7 @@ class Layout extends Component {
         render={data => (
           <>
             <Helmet
-          
+            
               title={data.site.siteMetadata.title}
               meta={[
                 { name: "google-site-verification", content: "HftHEKvnrsmWPwyIvBhI39qm00ArkHOE6zNpIiJYF80" },
@@ -61,10 +71,11 @@ class Layout extends Component {
             <Sidebar /> 
                 <div id="main">
 					      	<div className="inner">
-                
-                    <Top />
                   
-
+               
+                  {topadd}
+                
+                   
                     {children}
                  
                   </div>

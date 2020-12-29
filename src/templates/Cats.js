@@ -93,7 +93,7 @@ thearray.sort((a, b) => b.publishedDate.$date.$numberLong - a.publishedDate.$dat
             {data.allMarkdownRemark.edges.map(edge => {
               //finally the markdown, we filter it below.
                       for (let x = 0; x < edge.node.frontmatter.categories.length; x++) {
-                        if (edge.node.frontmatter.categories[x] == thedata.key) {
+                        if (edge.node.frontmatter.categories[x] === thedata.key) {
                          
                           return  <PostItem key={edge.node.id} item={edge.node} />
                         }
