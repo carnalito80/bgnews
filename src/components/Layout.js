@@ -8,12 +8,12 @@ import TopGeneric from './TopGeneric';
 import TopLegendary from './TopLegendary';
 import Sidebar from './Sidebar';
 
-var topadd = <TopGeneric />;
-const url = typeof window !== 'undefined' ? window.location.href : '';
-if (url.search('legendary') >= 0 ) topadd =  <TopLegendary />;
-console.log(topadd);
-console.log(url);
-console.log(url.search('legendary'))
+// var topadd = <TopGeneric />;
+// const url = typeof window !== 'undefined' ? window.location.href : '';
+// if (url.search('legendary') >= 0 ) topadd =  <TopLegendary />;
+// console.log(topadd);
+// console.log(url);
+// console.log(url.search('legendary'))
 class Layout extends Component {
   constructor(props) {
     super(props);
@@ -73,7 +73,7 @@ class Layout extends Component {
 					      	<div className="inner">
                   
                
-                  {topadd}
+                  <TopGeneric />
                 
                    
                     {children}
