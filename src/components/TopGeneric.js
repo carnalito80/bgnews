@@ -40,7 +40,7 @@ thearray = [
 
 break;
 default:
-addtitle = "Solid, alround games trending right now.";
+addtitle = "Solid, alround games:";
 thearray = [
 { pictitle : 'Undaunted: North Africa at Amazon',
 title : 'Undaunted: North Africa',
