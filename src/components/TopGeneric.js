@@ -8,7 +8,7 @@ if (url.search('legendary') >= 0 ) topadd =  'legendary';
 
 switch (topadd) {
 case 'legendary':
-addtitle = "Essential Marvel Legendary expansions";
+addtitle = "Great Marvel Legendary expansions";
 thearray = [
   { pictitle : 'Marvel Legendary: World war Hulk',
   title : 'World war Hulk',
