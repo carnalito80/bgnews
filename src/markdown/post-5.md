@@ -19,7 +19,7 @@ image: https://res.cloudinary.com/aaassdd33333/image/upload/v1610090530/glass_ro
 metakeywords: glass road review, review of glass road, uwe rosenberg glass road, glass road rules, glass road rule book, glass road rules pdf
 metadescription: Uwe Rosenberg is famous for his rather large and meaty Euro game with loads of components and options. This one differs a bit and plays an important role in the designers arsenal of great games.
 content_brief: Uwe Rosenberg is famous for his rather large and meaty Euro game with loads of components and options. This one differs a bit and plays an important role in the designers arsenal of great games.
-saletext: The reprint will hit the stores in the middle of 2021. You can preorder it at Gamenerdz!
+saletext: The reprint will hit the stores in the middle of 2021. You can preorder it at Gamenerdz for about 42 dollars.
 salelinks: 
     - https://www.gamenerdz.com/glass-road-w-promo-preorder?aff=34
     - https://amzn.to/38qbpDV
