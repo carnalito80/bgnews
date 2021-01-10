@@ -21,6 +21,6 @@ salelinks:
     - https://amzn.to/38qbpDV
 files: 0
 ---
-Uew Rosenberg is famous for his heavy euros with tons of components and point salad goodness. Most of them take 2 hours or more to play though, and set up can be brutal in some as well. Glass Road is of anohter nature; It's lighter and faster and still has that Uwe Rosenberg feeling. Good stuff we say.
+Uew Rosenberg is famous for his heavy euros with tons of components and point salad goodness. Most of them take 2 hours or more to play though, and set up can be brutal in some as well. Glass Road is of anohter nature; It's lighter and faster and still has that Uwe Rosenberg feeling. Good stuff we say!
 Like stated above it will hit the stores some time 2021, probably in April. It will also contain the previously released extra materials *Oktoberfest*, *Adventskalender*, and *Harlekein*.  We will get back to you on the exact date.
 Meanwhile, read our [Glass Road review](/reviews/glass-road-review/)
