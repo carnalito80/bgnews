@@ -13,8 +13,8 @@ categories:
     - tile-placement
 image: https://res.cloudinary.com/aaassdd33333/image/upload/v1610090530/glass_road.jpg
 metakeywords: glass road reprint, glass road 2021, glass road rerelease
-metadescription: The old classic Glass Road has been out of print for quite some time. Its rerelease is in the making though, and is estimated to hit the storews in the middle of 2021.
-content_brief: The old classic Glass Road has been out of print for quite some time. Its rerelease is in the making though, and is estimated to hit the storews in the middle of 2021.
+metadescription: The old classic Glass Road has been out of print for quite some time. Its rerelease is in the making though, and is estimated to hit the stores in the middle of 2021.
+content_brief: The old classic Glass Road has been out of print for quite some time. Its rerelease is in the making though, and is estimated to hit the stores in the middle of 2021.
 saletext: The reprint will hit the stores in the middle of 2021. You can preorder it at Gamenerdz!
 salelinks: 
     - https://www.gamenerdz.com/glass-road-w-promo-preorder?aff=34
