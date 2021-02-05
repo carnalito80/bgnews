@@ -50,6 +50,7 @@
 {"_id":{"$oid":"5cea4edc9fe50a72bf2b65a7"},"key":"star-wars","name":"Star Wars","metakeywords":[],"__v":{"$numberInt":"0"},"metadescription":"Star Wars related news and reviews.","metatitle":""},
 {"_id":{"$oid":"5e013881cf2e4564ab5c40ed"},"key":"variable-player-powers","name":"Variable Player Powers","metakeywords":["small world","legendary","eclipse"],"__v":{"$numberInt":"1"},"metadescription":"Meaning all players have their own special powers, such as different aliens races, different characters etc.","metatitle":"Games with Variable Player Powers."},
 {"_id":{"$oid":"5e7886909062bd0dd4d2fd89"},"key":"dominion","name":"Dominion","metakeywords":["dominion","dominion menagerie","dominion manegerie"],"__v":{"$numberInt":"1"},"metadescription":"Regarding the popular deck builder Dominion and it's expansion","metatitle":""},
-{"_id":{"$oid":"5eb83e567e2b9541a9a258c6"},"key":"puzzle","name":"Puzzle","metakeywords":["puzzles","best puzzles","puzzle reviews"],"__v":{"$numberInt":"1"},"metadescription":"We love puzzles as well, and here are our reviews.","metatitle":""}
+{"_id":{"$oid":"5eb83e567e2b9541a9a258c6"},"key":"puzzle","name":"Puzzle","metakeywords":["puzzles","best puzzles","puzzle reviews"],"__v":{"$numberInt":"1"},"metadescription":"We love puzzles as well, and here are our reviews.","metatitle":""},
+{"_id":{"$oid":"5bf9e5af1b2d2770da1b8555"},"key":"action-points","name":"Action Points","__v":{"$numberInt":"0"}}
     ]
 }    
