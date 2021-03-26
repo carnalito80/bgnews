@@ -66,6 +66,6 @@ There are quite a bunch of action cards, and we wont spoil them all here and now
 - The theme.
 
 ### CONCLUSION
-This is a nice, light little game for families and like-minded adults that has a certain type of humor. The game is suprisingly fun and actually have a some cool mechanics gaming-wise, but not enough for serious gaming groups. Our rating: **7/10**
- For more information about this game please visit <a href="https://www.hollew.co.uk/" rel="nofollow" target="blank">Hollew Games</a>.
+This is a nice, light, little game for families and like-minded adults that has a certain type of humor. The game is suprisingly fun and actually have a some cool mechanics gaming-wise, but not enough for serious gaming groups. Our rating: **7/10**
+ For more information about this game please visit <a href="https://www.hollew.co.uk/" rel="nofollow" target="_blank">Hollew Games</a>.
 
