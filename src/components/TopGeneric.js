@@ -3,8 +3,10 @@ import React from 'react';
 let thearray;
 let topadd = '';
 let addtitle = '';
-const url = typeof window !== 'undefined' ? window.location.href : '';
-if (url.search('legendary') >= 0 ) topadd =  'legendary';
+
+// comment these away as they seem to screw things up.
+// const url = typeof window !== 'undefined' ? window.location.href : '';
+// if (url.search('legendary') >= 0 ) topadd =  'legendary';
 
 switch (topadd) {
 case 'legendary':

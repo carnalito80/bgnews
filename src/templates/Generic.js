@@ -41,9 +41,9 @@ const IndexPage = props => {
     day: "2-digit"
   }).format(thedata.publishedDate.$date.$numberLong);
 
-  console.log('====================================');
-  console.log(thedata);
-  console.log('====================================');
+  // console.log('====================================');
+  // console.log(thedata);
+  // console.log('====================================');
   return (
 
   <Layout>
