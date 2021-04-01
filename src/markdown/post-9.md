@@ -5,7 +5,7 @@ date: "2021-03-24"
 title: "This game is Poo Review"
 posttype: review
 author: Jay Kay
-designer: Holly Chapman & Lewis
+designer: Holly Chapman & Lewis Brown
 playercount: 2 - 6
 age: 7+
 playtime: 20 - 45 min
