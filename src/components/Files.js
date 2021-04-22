@@ -7,7 +7,7 @@ class Files extends React.Component {
   render() {
 
     const files = this.props.item
-    console.log(files)
+    //console.log(files)
 
     JSONfiles.files.map((data) => {
 
@@ -22,7 +22,7 @@ class Files extends React.Component {
         } 
     )
     let filez = files.map((item) =>
-    <li className="jk">
+    <li className="jk" key={item.$oid}>
 
     <a href={item.link}> {item.name}</a> - {item.description}
    <br></br>

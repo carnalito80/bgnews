@@ -91,7 +91,7 @@ export default function TopGeneric() {
       </div>
   
       {thearray.map((item) => (
-        <div className="col-2 col-3-small">
+        <div key={item.asin} className="col-2 col-3-small">
            <a target="_blank" rel="nofollow noreferrer" href={item.url}>
            <figure>
             <img alt={item.pictitle} className="amazon-add" src={item.src} ></img>

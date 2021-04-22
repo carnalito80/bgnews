@@ -93,7 +93,7 @@ const IndexPage = props => {
         <div id="content"> {contentz}</div>
 
 
-      {thedata.file && thedata.files.length > 0  ? 
+      {thedata.files && thedata.files.length > 0  ? 
        <div className="row">
         <div className="col-12">
         <section className="box">

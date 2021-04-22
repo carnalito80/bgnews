@@ -2,7 +2,7 @@
 active: true
 slug: "/news/terraforming-mars-ares-expedition"
 date: "2021-01-18"
-title: "Terraforming Mars: Ares Expesition"
+title: "Terraforming Mars: Ares Expedition"
 posttype: news
 author: Jay Kay
 designer: Jacob Fryxelius, Nick Little, Sydney Engelstein
