@@ -21,8 +21,8 @@ salelinks:
     - https://amzn.to/3tI8uP4
 files: 0
 ---
-The immensely popular desisgner Eric Lang has teamed up with Michael Shinall (Rum & Bones)in creating yet another coop-monster slaying game; Bloodborne, based in the same universe as the well-liked <a href="https://amzn.to/3xiaHmz" target="_blank" rel="nofollow noreferrer" >PS4 game</a>.
+The immensely popular desisgner Eric Lang has teamed up with Michael Shinall (Rum & Bones)in creating yet another coop-monster slaying game; Bloodborne, based in the same universe as the well-liked <a href="https://amzn.to/3xiaHmz" target="_blank" rel="nofollow" alt="Boodbrne at Amazon">PS4 game</a>.
 Bloodborne the board game is a campaign based affair with lots of cool miniatures, player characters (hunters) with unique abilities, all driven by cards. The game promises great combat, lots of replayability, and theme.
-Of course, there will be expansions coming with more content in forms up campaigns, monsters, hunters, etc. In fact, three of them are coming out this year, <a href="https://amzn.to/3gvZY1C" target="_blank" rel="nofollow noreferrer" >where one has already been released</a>
+Of course, there will be expansions coming with more content in forms up campaigns, monsters, hunters, etc. In fact, three of them are coming out this year, <a href="https://amzn.to/3gvZY1C" target="_blank" rel="nofollow" alt="Expansion at Amazon" >where one has already been released</a>
 
 The game looks totally awesome, and if you are a fan of coop dungeon crawlers and/or Eric Lang, this one is a no-brainer.
