@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 slug: "/news/bloodborne-board-game"
 date: "2021-04-20"
 title: "Bloodborne: The Board Game"
@@ -11,26 +11,18 @@ categories:
     - deck-pool-building
     - cooperative-play
     - fantasy
-image: https://res.cloudinary.com/aaassdd33333/image/upload/v1612524586/tFxdDnlg.jpg
-metakeywords: stroganov boardgame, board game stroganov, andreas resch stroganov, stroganov kickstarter
-metadescription: Game Brewer announces the launch of their new board game, Stroganov, on Kickstarter.
-content_brief: Game Brewer announces the launch of their new board game, Stroganov, on Kickstarter.
-saletext: Check out the excellent Hansa Teutonica by the same designer, now in a BIG BOX edition!! W00t! 
+image: https://www.boardgame-news.com/images/blood.png
+metakeywords: bloodborne boardgame, bloodborne board game, blood borne board game, blood born board game
+metadescription: Eric Lang is behind a new coop game with miniatures and monsters lurking about.
+content_brief: Eric Lang is behind a new coop game with miniatures and monsters lurking about.
+saletext: The recomended price for this bad boy is around100 bucks, but you're in luch, it costs about 85 at these retailers
 salelinks: 
-    - https://www.gamenerdz.com/hansa-teutonica-big-box?aff=34
-    - https://amzn.to/3oLNu6E
+    - https://www.gamenerdz.com/bloodborne-the-board-game?aff=34
+    - https://amzn.to/3tI8uP4
 files: 0
 ---
-Game Brewer has the pleasure announce the launch of their new board game, Stroganov, on Kickstarter, coming this February 15. 
+The immensely popular desisgner Eric Lang has teamed up with Michael Shinall (Rum & Bones)in creating yet another coop-monster slaying game; Bloodborne, based in the same universe as the well-liked <a href=https://amzn.to/3xiaHmz" target="_blank" rel="nofollow noreferrer">PS4 game</a>.
+Bloodborne the board game is a campaign based affair with lots of cool miniatures, player characters (hunters) with unique abilities, all driven by cards. The game promises great combat, lots of replayability, and theme.
+Of course, there will be expansions coming with more content in forms up campaigns, monsters, hunters, etc. In fact, three of them are coming out this year, <a href="https://amzn.to/3gvZY1C" target="_blank" rel="nofollow noreferrer">where one has already been released</a>
 
-Designed by Andreas Resch (Gùgōng, Hansa Teutonica) and illustrated by Maciej Janik (Robinson Crusoe, Prêt-à-porter), this medium heavy strategic euro game is sure to thrill the fans of the genre! Here is a brief description from the publisher: 
-
->In the 17th century, Russia began to expand eastwards to develop the vast expanses of Siberia. This phase in history is closely associated with the name Stroganov.  
->In the game, players try to collect the best furs to gain wealth and fame as they move across the vastness that is Siberia. They will journey through Siberia, in spring, summer, and autumn before returning home each winter. After 4 years (rounds) the player who has best utilized their actions, and collected the most victory points, will win the game.  
->Each year, the players must move eastward across the landscape. They can spend horses if they wish to travel further. Once they have advanced, they may take a basic action, such as collecting furs or coins, trading … Lastly, they may take more advanced actions such as visiting a village, setting up a yurt, taking a Tsar’s wish (card), setting up a hunting lodge, or buying a landscape field. All of these actions, combined with exploring and some storytelling along the way will earn players victory points at the end of the game. Every winter, players will return home to Tyumen to prepare for a new year.  
->After 4 years, the game comes to an end. Players will score a whole bunch of victory points based on having collected the right Landscape tiles, fulfilled Tsar's wishes, built hunting lodges, collected furs, and more. 
-
-<figure class="figure">
-    <img class="image fit" alt="Glass Road review specialists cards" src="https://res.cloudinary.com/aaassdd33333/image/upload/v1612527727/stroganov.png" ></img>
-    <figcaption class="figcaption">The components and artwork by Maciej Janik looks simply amazing.</figcaption>
-</figure>
+The game looks totally awesome, and if you are a fan of coop dungeon crawlers and/or Eric Lang, this one is a no-brainer.
