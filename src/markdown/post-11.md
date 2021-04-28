@@ -1,7 +1,7 @@
 ---
 active: true
 slug: "/news/mosiac-board-game"
-date: "2021-04-28"
+date: "2021-04-27"
 title: "Mosaic - A Story of Civilization"
 posttype: news
 author: Jay Kay
