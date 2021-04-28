@@ -22,7 +22,7 @@ salelinks:
     - https://amzn.to/3aIy3YU
 files: 0
 ---
- A Civilization game is in the making and in being Kickstarted in May, it's called Mosaic - a Story of Civilization. It's designed by Glenn Drover, the designer of hit games such as Age of Empires III, Railways of the World, Sid Meier’s Civilization The Boardgame, and Raccoon Tycoon. Let's check it out, shall we?
+ A Civilization game is in the making and is being Kickstarted in May, it's called Mosaic - a Story of Civilization. It's designed by Glenn Drover, the designer of hit games such as Age of Empires III, Railways of the World, Sid Meier’s Civilization The Boardgame, and Raccoon Tycoon. Let's check it out, shall we?
 
 According to the publisher, *Mosaic* will contain all of the classic elements of a great civ-building game; 
 Building new cities, epic projects, and powerful wonders; researching new technologies that give each civilization a unique abilities and advantages; creating a vibrant economy; and expanding an empire across the map. The main gameplay mechanics are action selection/ card drafting, engine-building, and victory point acquisition via multiple sources and combinations. The design allows the game to be fast-play, with almost no down-time, but still have great depth and many different viable strategies.
