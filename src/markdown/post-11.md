@@ -15,7 +15,7 @@ categories:
     - 4x
 image: https://res.cloudinary.com/aaassdd33333/image/upload/v1619603499/mosaic.jpg
 metakeywords: mosaic boardgame, board game mosaic, Mosaic a story of Civilization, Glenn Drover mosaic, mosaic Kickstarter, civilization mosaic
-metadescription: A very exciting game is getting Kickstarted in May; Mosaic - A Story of Civilization.
+metadescription: A very exciting board game is getting Kickstarted in May; Mosaic - A Story of Civilization.
 content_brief: A Civilization game is in the making and in being Kickstarted in May, it's called Mosaic - a Story of Civilization. It's designed by Glenn Drover, the designer of hit games such as Age of Empires III, Railways of the World, Sid Meier’s Civilization The Boardgame, and Raccoon Tycoon. Let's check it out, shall we?
 saletext: I have an idea, while you wait for the Kickstarter, why not check out Glenns excellent Railways of the World?
 salelinks: 
