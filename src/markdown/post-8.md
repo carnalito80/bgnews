@@ -10,6 +10,7 @@ categories:
     - set-collection
     - worker-placement
     - action-points
+    - kickstarter
 image: https://res.cloudinary.com/aaassdd33333/image/upload/v1612524586/tFxdDnlg.jpg
 metakeywords: stroganov boardgame, board game stroganov, andreas resch stroganov, stroganov kickstarter
 metadescription: Game Brewer announces the launch of their new board game, Stroganov, on Kickstarter.

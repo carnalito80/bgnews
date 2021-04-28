@@ -13,11 +13,12 @@ categories:
     - variable-player-powers
     - hand-management
     - fryxgames
+    - kickstarter
 image: https://res.cloudinary.com/aaassdd33333/image/upload/v1610961742/aresexp.jpg
 metakeywords: terraforming mars card game, terraforming mars ares, terraforming mars new game, terraforming mars 2021, terraforming mars ares expedition
 metadescription: A new game in the Terraforming Mars universe is coming 2021! This time it's a card game.
 content_brief: A new game in the Terraforming Mars universe is coming 2021! This time it's a card game.
-saletext: This game is not released yet, meanwhile, buy the excellent Terraforming Mars from these vendors
+saletext: The Kickstarter is over, but the game has not reached the stores yet. Meanwhile, buy the excellent Terraforming Mars from these vendors
 salelinks: 
     - https://www.gamenerdz.com/terraforming-mars?aff=34
     - https://amzn.to/3izvSJX
@@ -28,4 +29,4 @@ Little is known except that the fact that it's going to be an engine building ca
 Also, the designer Jacob Fryxelius will get help from **Nick Little** (Aeon's End, Path of Light and Shadow) and **Sydney Engelstein** (Space Cadets) which is interesting.
 The official description:
 > is that it's an engine-building game in which players control interplanetary corporations with the goal of making Mars habitable (and profitable).
-We will keep you posted on any developments that comes along.
+Here is the [Kickstarter](https://www.kickstarter.com/projects/strongholdgames/ares-expedition-the-terraforming-mars-card-game) link.
