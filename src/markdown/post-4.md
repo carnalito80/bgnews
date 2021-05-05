@@ -12,7 +12,7 @@ categories:
     - hand-management
     - set-collection
     - games-we-love
-image: https://res.cloudinary.com/aaassdd33333/image/upload/v1609255779/annihi.png
+image: https://res.cloudinary.com/aaassdd33333/image/upload/v1609255779/annihi.webp
 metakeywords: Marvel Legendary, marvel annihiliation, marvel legendary annihiliation, legendary marvel annihiliation, marvel legendary galactus hero
 metadescription: The next expansion in line for the every growing Marvel Legendary will be Annihiliation. It will be released Summer 2021.
 content_brief: The next expansion in line for the every growing Marvel Legendary will be Annihiliation. It will be released Summer 2021.

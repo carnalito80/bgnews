@@ -17,7 +17,7 @@ categories:
     - games-we-love
     - hand-management
     - set-collection
-image: https://res.cloudinary.com/aaassdd33333/image/upload/v1607526844/cosmos.jpg
+image: https://res.cloudinary.com/aaassdd33333/image/upload/v1607526844/cosmos.webp
 metakeywords: Marvel Legendary Into the Cosmos, marvel into the cosmos, legendary into the cosmos,  legendary into the cosmos deluxe, into the cosmos deluxe, into the cosmos deluxe edition, Marvel Legendary Into the Cosmos review, Legendary into the cosmos review
 metadescription: This expansion can be considered the sequel to the classic expansion "Guardians of the Galaxy" that came out in 2014, with goodies like shards and more heroes for the GoG roster. Check out this review of Into the Cosmos.
 content_brief: This expansion can be considered the sequel to the classic expansion "Guardians of the Galaxy" that came out in 2014, with goodies like shards and more heroes for the GoG roster.

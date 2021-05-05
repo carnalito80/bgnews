@@ -11,7 +11,7 @@ categories:
     - worker-placement
     - action-points
     - kickstarter
-image: https://res.cloudinary.com/aaassdd33333/image/upload/v1612524586/tFxdDnlg.jpg
+image: https://res.cloudinary.com/aaassdd33333/image/upload/v1612524586/tFxdDnlg.webp
 metakeywords: stroganov boardgame, board game stroganov, andreas resch stroganov, stroganov kickstarter
 metadescription: Game Brewer announces the launch of their new board game, Stroganov, on Kickstarter.
 content_brief: Game Brewer announces the launch of their new board game, Stroganov, on Kickstarter.
@@ -31,6 +31,6 @@ Designed by Andreas Resch (Gùgōng, Hansa Teutonica) and illustrated by Maciej 
 >After 4 years, the game comes to an end. Players will score a whole bunch of victory points based on having collected the right Landscape tiles, fulfilled Tsar's wishes, built hunting lodges, collected furs, and more. 
 
 <figure class="figure">
-    <img class="image fit" alt="Glass Road review specialists cards" src="https://res.cloudinary.com/aaassdd33333/image/upload/v1612527727/stroganov.png" ></img>
+    <img class="image fit" alt="Glass Road review specialists cards" src="https://res.cloudinary.com/aaassdd33333/image/upload/v1612527727/stroganov.webp" >
     <figcaption class="figcaption">The components and artwork by Maciej Janik looks simply amazing.</figcaption>
 </figure>
