@@ -53,13 +53,13 @@ const IndexPage = props => {
         </header>
         
         <div className="row gtr-200">
-          <div className="col-6 col-12-small">
+          <div className="col-7 col-12-small">
             <span className="image main">
               <img src={thedata.image.secure_url} alt={thedata.title} />
             </span>
           </div>
           
-          <div className="col-6 col-12-small">
+          <div className="col-5 col-12-small">
             <h5>Posted { dejt } by {thedata.author.$oid}</h5>
         
           </div>
