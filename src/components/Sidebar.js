@@ -56,11 +56,11 @@ class SideBar extends React.Component {
           </a> */}
 
 						{/* Search */}
-								<section id="search" className="alt">
+								{/* <section id="search" className="alt">
 									<form method="post" action="#">
 										<input type="text" name="query" id="query" placeholder="Search" />
 									</form>
-								</section>
+								</section> */}
 
                 {/* Menu */}
 								<nav id="menu">
