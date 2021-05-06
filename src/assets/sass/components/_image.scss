@@ -7,6 +7,13 @@
 	height: 120px;
 	// max-height: 7em;
 	border: 0px;
+	@include breakpoint('<=medium') {
+		height: 110px;
+	}
+	@include breakpoint('<=small') {
+		height: 75px;
+	}
+	
 }
 .figcaption-add {
 	font-size: 14px;
