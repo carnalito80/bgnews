@@ -55,7 +55,7 @@ const IndexPage = props => {
         <div className="row gtr-200">
           <div className="col-7 col-12-small">
             <span className="image main">
-              <img src={thedata.image.secure_url} alt={thedata.title} />
+              <img className="main" src={thedata.image.secure_url} alt={thedata.title} />
             </span>
           </div>
           
