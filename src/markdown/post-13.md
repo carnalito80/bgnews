@@ -5,7 +5,7 @@ date: "2021-05-25"
 title: "Heroes of Barcardia Kickstarter"
 posttype: news
 author: Jay Kay
-designer:  Peter Lee, Rodney Thompson, and Andrew Veen
+designer: 
 categories: 
     - party-game
     - card-drafting
