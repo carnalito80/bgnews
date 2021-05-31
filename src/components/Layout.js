@@ -25,7 +25,7 @@ class Layout extends Component {
   componentDidMount() {
     this.timeoutId = setTimeout(() => {
       this.setState({ isPreloaded: false });
-    }, 150); //changed 100 to 150 in hope that static queries will load
+    }, 100); //changed 100 to 150 in hope that static queries will load
   }
 
   componentWillUnmount() {
