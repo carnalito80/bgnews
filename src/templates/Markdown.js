@@ -177,7 +177,7 @@ function salename(sale) {
     </Helmet>
     <article>
       <header>
-       <h1 className="jk">{frontmatter.title}</h1>
+       <h1>{frontmatter.title}</h1>
           <p>
           {frontmatter.metadescription}
           </p>

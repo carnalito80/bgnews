@@ -46,7 +46,7 @@ const IndexPage = props => {
             </Helmet>
    <article>
       <header>
-      <h1 className="jk">{thedata.title}</h1>
+      <h1>{thedata.title}</h1>
           <p>
           {thedata.metadescription}
           </p>
