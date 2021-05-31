@@ -11,7 +11,7 @@ categories:
     - card-drafting
     - hand-management
     - fantasy
-    - kickstartr
+    - kickstarter
 image: https://res.cloudinary.com/aaassdd33333/image/upload/v1621975340/bacardia_original.webp
 metakeywords: heroes of bacardia, heroes of bacardia kickstarter
 metadescription: A party game that involved drinking and fastasy dungeon crawling? You had me at party!

@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'BoardGame-News', // <title>
   manifestName: 'BoardGame-News',
   manifestShortName: 'BoardGame-News', // max 12 characters
-  manifestStartUrl: '/',
+  manifestStartUrl: 'https://www.boardgame-news.com/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
