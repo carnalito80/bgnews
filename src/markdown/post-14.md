@@ -5,13 +5,13 @@ date: "2021-06-01"
 title: "Iberian Gauge Reprint"
 posttype: news
 author: Jay Kay
-designer:  Amabel Holland
+designer:  Tom Russell
 categories: 
     - auction
     - route-network-building
     - trains
 image: https://res.cloudinary.com/aaassdd33333/image/upload/v1622709986/iberian_gauge.jpg
-metakeywords: iberian gauge, iberian guage reprint, iron rails reprint
+metakeywords: iberian gauge, iberian gauge reprint, iron rails reprint
 metadescription: Yay! A reprint of the third game of the wildy hyped series Iron rails series, Iberian Gauge, is coming out on the stores in June!
 content_brief: Yay! A reprint of the third game of the wildy hyped series Iron rails series, Iberian Gauge, is coming out on the stores in June!
 saletext: Gamenerdz have a sweet preorder price on the Iberian Guage reprint, just 28$ instead of the normal price, 40$.
