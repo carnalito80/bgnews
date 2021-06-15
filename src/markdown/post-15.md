@@ -14,14 +14,14 @@ categories:
     - games-we-love
 image: https://res.cloudinary.com/aaassdd33333/image/upload/v1623762804/drstrange.webp
 metakeywords: Marvel Legendary, marvel dr strange, marvel legendary dr strange, legendary marvel dr strange, marvel legendary dr strange and the shadows at night
-metadescription: Anhiliation has not been released at this time, but the next one in line is in the pipe nevertheless. Dr. Strange will join us with his own expansion, Dr Strange & the Shadows at night.
-content_brief: Anhiliation has not been released at this time, but the next one in line is in the pipe nevertheless. Dr. Strange will join us with his own expansion, Dr Strange & the Shadows at night.
+metadescription: Annihilation has not been released at this time, but the next one in line is in the pipe nevertheless. Dr. Strange will join us with his own expansion, Dr Strange & the Shadows at night.
+content_brief: Annihilation has not been released at this time, but the next one in line is in the pipe nevertheless. Dr. Strange will join us with his own expansion, Dr Strange & the Shadows at night.
 saletext: This expansion has not been released, but the said date is July -21
 salelinks: 
    
 files: 0
 ---
-This expansion is being relased in July, probably before the long awaited [Marvel Legendary: Anhiliation](https://www.boardgame-news.com/news/marvel-legendary-annihiliation). As the title suggests it will revolve around Dr. Strange teaming up with heroes like The Ancient One, Clea, and the Vishanti, trying to defeat the dark arts. This will be a 100 card set.
+This expansion is being relased in July, probably before the long awaited [Marvel Legendary: Annihilation](https://www.boardgame-news.com/news/marvel-legendary-annihiliation). As the title suggests it will revolve around Dr. Strange teaming up with heroes like The Ancient One, Clea, and the Vishanti, trying to defeat the dark arts. This will be a 100 card set.
 
 As of now, little is known except the heroes, which has been confirmed:
 
