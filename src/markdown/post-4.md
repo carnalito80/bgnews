@@ -21,13 +21,13 @@ salelinks:
    
 files: 0
 ---
-**Update March 20** This expansion was supposed to be released in January but has been delayed until some time this summer.
+**Update June 12** This expansion was supposed to be released in January but has been delayed until some time this summer.
 
  The next expansion in line for the every growing Marvel Legendary will be Annihiliation. It will be a small expansion with 100 cards, which probably means 5 heroes and 2 masterminds, along with some schemes. Here are our speculations:
 
  ###Heroes###
  - Galactus
- - Heralds of Galactus as a group.
+ - Heralds of Galactus as a group. (confirmed)
  - Fantastic 4 as a group (confirmed)
  - Dr Doom
  - Super Skrull
@@ -37,9 +37,10 @@ files: 0
  - Annihilus (confirmed)
  - Maker
 ###Villains###
-- Annihilation Wave
+- Annihilation Wave (confirmed)
 - ??
 
+The return of the keyword **Focus** has been confirmed.  
 Again, the description has pretty much guaranteed Annihilus.
 Here is the description from the publisher by the way;
 <blockquote>A dark new threat has arrived with this Legendary expansion. Annihilus, Lord of the Negative Zone has declared war on anyone who crosses his path, causing heroes and villains to band together against this total annihilation. In defense of the universe, you might see former foes such as Fantastic Four team up with Galactus and his Heralds! It’s time for all to stand side by side against the incoming wave of destruction - stand together, or fall apart.</blockquote>

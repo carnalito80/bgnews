@@ -14,7 +14,7 @@ image: https://res.cloudinary.com/aaassdd33333/image/upload/v1622709986/iberian_
 metakeywords: iberian gauge, iberian gauge reprint, iron rails reprint
 metadescription: Yay! A reprint of the third game of the wildy hyped series Iron rails series, Iberian Gauge, is coming out on the stores in June!
 content_brief: Yay! A reprint of the third game of the wildy hyped series Iron rails series, Iberian Gauge, is coming out on the stores in June!
-saletext: Gamenerdz have a sweet preorder price on the Iberian Guage reprint, just 28$ instead of the normal price, 40$.
+saletext: Gamenerdz have a sweet preorder price on the Iberian Gauge reprint, just 28$ instead of the normal price, 40$.
 salelinks: 
     - https://www.gamenerdz.com/iberian-gauge-preorder?aff=34
 files: 0
