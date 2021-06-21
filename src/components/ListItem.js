@@ -48,6 +48,7 @@ class ListItem extends React.Component {
             {thedata.playercount ?   <li className="jk"><span className="icon fa-shopping-cart"></span><strong>Playercount: </strong>{thedata.playercount}</li> : ""}
             {thedata.playtime ?   <li className="jk"><span className="icon fa-hourglass-half"></span><strong>Length: </strong>{thedata.playtime}</li> : ""}
             {thedata.age ?   <li className="jk"><span className="icon fa-user-plus"></span><strong>Age: </strong>{thedata.age}</li> : ""}
+            {thedata.cost ?   <li className="jk"><span className="icon fa-shopping-cart"></span><strong>Cost: </strong>{thedata.cost}</li> : ""}
         </ul>
           </div>
         </div>
