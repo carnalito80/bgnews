@@ -25,7 +25,11 @@ files: 0
 
 In the trick-taking card game The Crew: Mission Deep Sea, you must work togheter with your fellow players to find a lost continent. 
 Instead of space, this game is set deep down in the dark sea, and there you will search for the lost lands of Mu.
+
 Like the original, you will take tricks and discover more challenges that lies ahead, all this with limited communication and the same co-operative spirit as the original game.
+
 This new version of the Cre has some new mechanics and a couple of new suprises up its sleeve.  
 Finding the hidden land in the deep sea depends not only on winning tricks, but also by negotiation, and finding Mu sure won't be easy.
+
+This sure sounds good to me, and I for one can't wait to give it a spin. As soon as i recover from this goddamn Covid infection, that is :(
 
