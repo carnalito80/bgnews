@@ -17,8 +17,8 @@ metakeywords: Marvel Legendary, marvel annihiliation, marvel legendary annihilia
 metadescription: The next expansion in line for the every growing Marvel Legendary will be Annihiliation. It will be released Summer 2021.
 content_brief: The next expansion in line for the every growing Marvel Legendary will be Annihiliation. It will be released Summer 2021.
 saletext: This expansion has not been released, but according to Upper Deck, it WILL be released summer 2021. You can preorder it at Gamenerdz for just 19 bucks.
-salelinks: https://www.gamenerdz.com/legendary-dbg-marvel-annihilation-expansion-preorder?aff=34
-   
+salelinks:
+    - https://www.gamenerdz.com/legendary-dbg-marvel-annihilation-expansion-preorder?aff=34
 files: 0
 ---
 **Update July 15** This expansion was supposed to be released in January but has been delayed until some time this summer. Uppder deck has confirmed that it will indeed be released summer 2021.

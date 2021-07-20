@@ -20,8 +20,6 @@ saletext: Go ahead, order it right now. Should cost you about 10-15 bucks.
 salelinks: 
     - https://amzn.to/3ix2qVj
     - https://www.gamenerdz.com/the-crew-mission-deep-sea-preorder?aff=34
-
-   
 files: 0
 ---
 
