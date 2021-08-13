@@ -54,6 +54,7 @@
 {"_id":{"$oid":"6eb83e444e2b95412ab258c9"},"key":"kickstarter","name":"Kickstarter","metakeywords":["kickstarter board games","kickstarter boardgames","kickstarter card games"],"__v":{"$numberInt":"1"},"metadescription":"Check out these coming Kickstarter board and card games.","metatitle":"Kickstarter Board and Card games"},
 {"_id":{"$oid":"5bf9e5rtzb2d2770da1b8555"},"key":"party-game","name":"Party Game","__v":{"$numberInt":"0"}},
 {"_id":{"$oid":"5bf9e5af1b2d2770da1b8555"},"key":"action-points","name":"Action Points","__v":{"$numberInt":"0"}},
-{"_id":{"$oid":"5zz9e5811b2d2770da1b333c"},"key":"trains","name":"Trains","metadescription":"Games revolving around trains, often economy heavy.","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5zz9e5811b2d2770da1b333c"},"key":"trains","name":"Trains","metadescription":"Games revolving around trains, often economy heavy.","__v":{"$numberInt":"0"}},
+{"_id":{"$oid":"52z9e5811b2d2770da1b555a"},"key":"family-game","name":"Family Game","metadescription":"Games ideal for family fun. Often light games, with little or none 'take-that!' mechanics.","__v":{"$numberInt":"0"}}
     ]
 }    
