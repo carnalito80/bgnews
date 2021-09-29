@@ -94,7 +94,7 @@ class SideBar extends React.Component {
 										<li className="icon solid fa-envelope">jk@boardgame-news.com</li>
 										<li className="icon solid fa-star"><a href="https://smashbomb.com/boardgamenews">smashbomb profile</a></li>
 										<li className="icon solid brands fa-twitter"><a rel="nofollow norefferer" href="https://twitter.com/boardgame_news1">@boardgame_news1</a></li>
-										<li className="icon solid fa-briefcase"><a rel="nofollow norefferer" href="https://jooble.org">Find jobs in US here</a></li>
+										<li className="icon solid fa-briefcase"><a rel="norefferer" href="https://jooble.org">Find jobs in US here</a></li>
 									</ul>
 								</section>
 								<section>
