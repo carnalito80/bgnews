@@ -8,7 +8,6 @@ author: Jay Kay
 designer: Devin Low
 categories: 
     - expansion
-    - legendary
     - hand-management
     - set-collection
     - games-we-love
