@@ -1,7 +1,7 @@
 ---
 active: true
 slug: "/news/gigawatt-kickstarter"
-date: "2021-11-20"
+date: "2022-02-13"
 title: "GigaWatt Kickstarter"
 posttype: news
 author: Jay Kay
