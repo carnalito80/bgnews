@@ -18,7 +18,7 @@ image: https://res.cloudinary.com/aaassdd33333/image/upload/v1616750978/poo.webp
 metakeywords: this game is poo, this game is poo review, poo game, poo card game
 metadescription: A game about Poo you say? Is this game the shit or just crap? Let's find out.
 content_brief: A game about Poo you say? Is this game the shit or just crap? Let's find out.
-saletext: Currently on Amazon UK for about 20 bucks.
+saletext: Currently on Amazon UK for about 7 bucks.
 salelinks: 
      - https://amzn.to/3l050Vf
 files: 0
