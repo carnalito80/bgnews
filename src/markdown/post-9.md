@@ -20,7 +20,7 @@ metadescription: A game about Poo you say? Is this game the shit or just crap? L
 content_brief: A game about Poo you say? Is this game the shit or just crap? Let's find out.
 saletext: Currently on Amazon UK for about 20 bucks.
 salelinks: 
-     - https://amzn.to/3rng8MH
+     - https://amzn.to/3l050Vf
 files: 0
 ---
 ### INTRO
