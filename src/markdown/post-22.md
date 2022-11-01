@@ -33,7 +33,7 @@ The good news for players who own the original set is that all the new cards wil
 The Lord of the Rings: The Card Game has been around now for 10 years, and the fact that a new core set is coming out should speak for itself. The game is awesome, and if you like lord of the rings and/or enjoy cooperative games, this one is, like stated above, a no-brainer.
 
 <figure class="figure">
-    <img class="figure-img" alt="Boon card" src="https://www.boardgame-news.com/images/booncard.webp" >
+    <img class="image fit" alt="Boon card" src="https://www.boardgame-news.com/images/booncard.webp" >
     </img>
     <figcaption class="figcaption">Here is an aexmplae of a Boon card, in this case an attachment, which will follow the hero it's attached to for the rest of the campaign.</figcaption>
 </figure>

@@ -27,7 +27,7 @@ files: 0
 #### (description by the publisher)
 From the Czech developers <a href="https://fatboardgames.com/" target="_blank">FATboardgames</a> comes this brand new assymetric game with a REAL scale! Grow your nation and challenge even the powerful Gods or prove yourself the greatest God of all times and win the worship from the Staterans.
 <figure class="figure">
-    <img class="figure-img" alt="Statera Setup" src="https://www.boardgame-news.com/images/statera-setup.webp" >
+    <img class="image fit" alt="Statera Setup" src="https://www.boardgame-news.com/images/statera-setup.webp" >
     </img>
     <figcaption class="figcaption">The story of Statera takes place in a fantasy land dominated by gigantic scales. Here the Stateran nations - Chompas and Fauns try to live in peace and harmony, while gods Hanibal, Metatron and Sefara measure their power with cunning god Ferun.</figcaption>
 </figure>
@@ -41,7 +41,7 @@ Another cool thing that gives the game even more replayability is a modular game
 Did we mention a scale? Yes, a scale! Check out this picture:
 
 <figure class="figure">
-    <img class="figure-img" alt="Statera Scale" src="https://www.boardgame-news.com/images/statera-scale.webp" >
+    <img class="image fit" alt="Statera Scale" src="https://www.boardgame-news.com/images/statera-scale.webp" >
     </img>
     <figcaption class="figcaption">The scales are a big part of Statera - the game and the world.We are proud that we created a component that is both visually appealing and part of the game mechanics.We also created the lore that you can already read in update #1. And most important - it feels damm great to put meeples on and see the scales lean to your victory!</figcaption>
 </figure>
