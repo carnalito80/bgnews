@@ -43,7 +43,7 @@ Did we mention a scale? Yes, a scale! Check out this picture:
 <figure class="figure">
     <img class="image fit" alt="Statera Scale" src="https://www.boardgame-news.com/images/statera-scale.webp" >
     </img>
-    <figcaption class="figcaption">The scales are a big part of Statera - the game and the world.We are proud that we created a component that is both visually appealing and part of the game mechanics.We also created the lore that you can already read in update #1. And most important - it feels damm great to put meeples on and see the scales lean to your victory!</figcaption>
+    <figcaption class="figcaption">The scales are a big part of Statera. This component is both visually appealing and has also a big role in the game mechanics. If you want to know more about them, check out the Statera Gamefound page. And most importantly - it feels damn good to put meeples on the scales lean them to your victory!</figcaption>
 </figure>
 
 This game sure sounds and look interesting, read more about it on the <a href="https://gamefound.com/projects/fatboardgames/statera" rel="nofollow" target="_blank">gamefound campaign page</a>, which will start in February, by the way.
