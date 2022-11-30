@@ -16,8 +16,10 @@ image: https://res.cloudinary.com/aaassdd33333/image/upload/v1669800779/midnight
 metakeywords: Marvel Legendary, marvel midnight sons, marvel legendary midnight sons, midnight sons marvel, marvel legendary morbius
 metadescription: Marvel Legendary is continuing its onslaught of expansions, the next one in line is the Midnight Sons expansion which will feature Blade and  Morbius, among other characters.
 content_brief: Marvel Legendary is continuing its onslaught of expansions, the next one in line is the Midnight Sons expansion which will feature Blade and  Morbius, among other characters.
-saletext: This expansion has not been released, but the said date is March -23
+saletext: This expansion has not been released, but the said date is March -23. Meanwhile, check out the expansion "Fear Itself" whcih is an old classic that probably will be out of print soon.
 salelinks: 
+    - https://amzn.to/3Fg4bmo
+    - https://www.gamenerdz.com/legendary-villains-dbg-marvel-fear-itself-expansion?aff=34
    
 files: 0
 ---
