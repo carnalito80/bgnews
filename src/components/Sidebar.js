@@ -123,7 +123,7 @@ class SideBar extends React.Component {
 								
 									<ul className="unstyled">
 									<li><a href='/news/post/terraforming-mars-the-dice-game'> Terraforming Mars: The Dice Game</a></li>
-									<li><a href='/news/post/pokemon-go-evolves'> Pokémon GO evolve guide</a></li>
+									{/* <li><a href='/news/post/pokemon-go-evolves'> Pokémon GO evolve guide</a></li> */}
 									<li><a href='/news/post/dungeon-of-the-mad-mage-board-game'> Dungeon of the Mad Mage Board Game</a></li>
 									<li><a href='/news/post/spirit-island-jagged-earth'> Spirit Island: Jagged Earth</a></li>
 									<li><a href='/news/post/marvel-legendary-into-the-cosmos'>Marvel Legendary: Into the Cosmos</a></li>
