@@ -4,7 +4,7 @@ slug: "/news/heatopoly"
 date: "2022-12-09"
 title: "HEATopoly"
 posttype: news
-author: Jay Kay
+author: Olga Alexandru
 designer: Lotte van der Velde
 categories: 
     - educational
