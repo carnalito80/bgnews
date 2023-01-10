@@ -87,7 +87,8 @@ export default function TopGeneric() {
     <header id="header">
     <div  className="row">
       <div className="col-4 col-12-medium">
-         <a href="/" className="logo"><strong>{addtitle}</strong></a>
+         {/* <a href="/" className="logo"><strong>{addtitle}</strong></a> */}
+         <strong>{addtitle}</strong>
       </div>
   
       {thearray.map((item) => (

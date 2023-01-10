@@ -122,7 +122,7 @@ class SideBar extends React.Component {
 									</header>
 								
 									<ul className="unstyled">
-									<li><a href='/news/post/terraforming-mars-the-dice-game'> Terraforming Mars: The Dice Game</a></li>
+									<li><a href='/news/marvel-legendary-midnight-sons'> Marvel Legendary: Midnight Sons</a></li>
 									{/* <li><a href='/news/post/pokemon-go-evolves'> Pokémon GO evolve guide</a></li> */}
 									<li><a href='/news/post/dungeon-of-the-mad-mage-board-game'> Dungeon of the Mad Mage Board Game</a></li>
 									<li><a href='/news/post/spirit-island-jagged-earth'> Spirit Island: Jagged Earth</a></li>
@@ -134,7 +134,7 @@ class SideBar extends React.Component {
 
 							{/* <!-- Footer --> */}
 								<footer id="footer">
-									<p className="copyright">&copy; 2020 boardgame-news. -your goto in the world's greatest hobby.<br /> Design: <a href=''>JayKay</a>.</p>
+									<p className="copyright">&copy; 2023 boardgame-news. -your goto in the world's greatest hobby.<br /> Design: JayKay.</p>
 								</footer>
 
 						</div>
