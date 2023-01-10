@@ -12,7 +12,7 @@ categories:
     - hand-management
     - set-collection
     - games-we-love
-image: https://res.cloudinary.com/aaassdd33333/image/upload/v1669800779/midnight_sons.webp
+image: https://www.boardgame-news.com/images/midnight_sons.webp
 metakeywords: Marvel Legendary, marvel midnight sons, marvel legendary midnight sons, midnight sons marvel, marvel legendary morbius
 metadescription: Marvel Legendary is continuing its onslaught of expansions, the next one in line is the Midnight Sons expansion which will feature Blade and  Morbius, among other characters.
 content_brief: Marvel Legendary is continuing its onslaught of expansions, the next one in line is the Midnight Sons expansion which will feature Blade and  Morbius, among other characters.
