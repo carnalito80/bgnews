@@ -28,7 +28,7 @@ This expansion is said to be released in March -23, and it will consist of the s
 Anyway, back to the information about Midnight Sons. Besides Lilith as a Mastermind, the demon **Zarathos** is very likely to join her in making players lives miserable:
 
 <figure class="figure">
-    <img class="image fit" alt="The demon Zarathos is likely to join the Marvel Legendary series" src="https://www.boardgame-news.com/images/zarathos.jpg" >
+    <img class="image" alt="The demon Zarathos is likely to join the Marvel Legendary series" src="https://www.boardgame-news.com/images/zarathos.jpg" >
     </img>
     <figcaption class="figcaption">The demon Zarathos is likely to join the Marvel Legendary series</figcaption>
 </figure>
@@ -45,7 +45,7 @@ So, without further ado, here's our speculations among with the stuff that has b
  - Dr. Strange is some fancy form
 
  ###Masterminds###
- - Lilith
+ - Lilith (confirmed)
  - Zarathos
 
 ###Villains###
