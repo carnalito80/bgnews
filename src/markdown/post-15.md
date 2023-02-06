@@ -16,14 +16,17 @@ image: https://res.cloudinary.com/aaassdd33333/image/upload/v1623762804/drstrang
 metakeywords: Marvel Legendary, marvel dr strange, marvel legendary dr strange, legendary marvel dr strange, marvel legendary dr strange and the shadows at night
 metadescription: Annihilation has not been released at this time, but the next one in line is in the pipe nevertheless. Dr. Strange will join us with his own expansion, Dr Strange & the Shadows at night.
 content_brief: Annihilation has not been released at this time, but the next one in line is in the pipe nevertheless. Dr. Strange will join us with his own expansion, Dr Strange & the Shadows at night.
-saletext: This expansion has not been released, but the said date is July -21
+saletext: This expansion has been release, check it out as these vendors;
 salelinks: 
+    - https://amzn.to/3laL31w
+    - https://www.gamenerdz.com/legendary-dbg-marvel-doctor-strange-the-shadows-of-nightmare-expansion?aff=34
    
 files: 0
 ---
 This expansion is being relased in July, probably before the long awaited [Marvel Legendary: Annihilation](https://www.boardgame-news.com/news/marvel-legendary-annihiliation). As the title suggests it will revolve around Dr. Strange teaming up with heroes like The Ancient One, Clea, and the Vishanti, trying to defeat the dark arts. This will be a 100 card set.
 
-As of now, little is known except the heroes, which has been confirmed:
+<del>As of now, little is known except the heroes, which has been confirmed:</del>  
+The information below is now confirmed, and it looks like our speculations was 90% correct:
 
  ###Heroes###
  - Doctor Strange
@@ -33,17 +36,23 @@ As of now, little is known except the heroes, which has been confirmed:
  - The Ancient One
 
  ###Masterminds###
- - Nightmare (from the official description)
- - Dormammu (speculation)
+ - Nightmare
+ - Dormammu
 
 ###Villains###
-- Zealots (speculation)
-- The Fear Lords (speculation)
+- Lords of the Nether Realm
+- The Fear Lords
 
 ###Keywords###
-- Dark Memories (speculation)
-- Walking Nightmare (speculation)
-- Something new
+- Ritual Artifact
+- Astral Plane
+- Demonic Bargain
+
+###Schemes###
+- Claim Souls for Demons
+- Cursed Pages of the Darkholde Tome
+- Duels of Science and Magic
+- War for the Dream Dimension
 
 This expansion sure has potential, let's see what more info will emerge.
 And, as always, here's the offical description:
