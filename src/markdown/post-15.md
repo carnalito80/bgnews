@@ -16,7 +16,7 @@ image: https://res.cloudinary.com/aaassdd33333/image/upload/v1623762804/drstrang
 metakeywords: Marvel Legendary, marvel dr strange, marvel legendary dr strange, legendary marvel dr strange, marvel legendary dr strange and the shadows at night
 metadescription: Annihilation has not been released at this time, but the next one in line is in the pipe nevertheless. Dr. Strange will join us with his own expansion, Dr Strange & the Shadows at night.
 content_brief: Annihilation has not been released at this time, but the next one in line is in the pipe nevertheless. Dr. Strange will join us with his own expansion, Dr Strange & the Shadows at night.
-saletext: This expansion has been release, check it out as these vendors;
+saletext: This expansion has been released, check it out as these vendors;
 salelinks: 
     - https://amzn.to/3laL31w
     - https://www.gamenerdz.com/legendary-dbg-marvel-doctor-strange-the-shadows-of-nightmare-expansion?aff=34

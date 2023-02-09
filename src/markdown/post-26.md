@@ -28,12 +28,12 @@ The expansions will cover the MCU version of the Infinity Saga which we've all s
 Also, like stated above, keep in mind that this a MCU expansion so it will fit best with **Marvel Studios Phase 1 Base Set**,  **Spider-Man: Homecoming**, and **Guardians of the Galaxy: Vol. 2**, when it comes to combining it with other expansions.
 Let's have a look at some of the cards:
 <figure class="figure">
-    <img class="image" alt="Black Panther and captain America" src="https://www.boardgame-news.com/images/legendary-marvel-studios-infinity-saga-black-panther.webp" >
+    <img class="image fit" alt="Black Panther and captain America" src="https://www.boardgame-news.com/images/legendary-marvel-studios-infinity-saga-black-panther.webp" >
     </img>
     <figcaption class="figcaption">Here's a card with Black Panther and Captain America. Notice the multi-class mechanic returning from <strong>Secret Wars</strong></figcaption>
 </figure>
 <figure class="figure">
-    <img class="image" alt="Doctor Strange Infinity Saga" src="https://www.boardgame-news.com/images/legendary-marvel-studios-infinity-saga-doctor-strange.webp" >
+    <img class="image fit" alt="Doctor Strange Infinity Saga" src="https://www.boardgame-news.com/images/legendary-marvel-studios-infinity-saga-doctor-strange.webp" >
     </img>
     <figcaption class="figcaption">Doctor Strange returns again, here with the Avengers affiation. The keyword <strong>Phasing</strong> returns from <strong>Legendary: Civil War</strong></figcaption>
 </figure>
