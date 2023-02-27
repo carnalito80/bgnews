@@ -102,7 +102,7 @@ class SideBar extends React.Component {
 										<h2>About Us</h2>
 									</header>
 									<p>We're a small team dedicated on bringing you quality news and reviews for card games, board games, and RPGs. We might even throw in some digital games in there, too. We're based in Sweden, Spain and the UK. boardgamenews</p>
-									<link href="https://cdn.sur.ly/widget-awards/css/surly-badges.min.css" rel="stylesheet">
+									
 
 										<div id="surly-badge" class="surly__id_151710114 surly-badge_white-red" onclick="if(event.target.nodeName.toLowerCase() != 'a' && event.target.parentElement.nodeName.toLowerCase() != 'a') {window.open('https://sur.ly/i/boardgame-news.com/'); return 0;}">
 											<div class="surly-badge__header">

@@ -54,7 +54,7 @@ class Layout extends Component {
         render={data => (
           <>
             <Helmet
-            
+           
               title={data.site.siteMetadata.title}
               meta={[
                 { name: "google-site-verification", content: "HftHEKvnrsmWPwyIvBhI39qm00ArkHOE6zNpIiJYF80" },
@@ -64,7 +64,7 @@ class Layout extends Component {
             >
               <html lang="en" />
               
-
+            <link href="https://cdn.sur.ly/widget-awards/css/surly-badges.min.css" rel="stylesheet"></link>
             </Helmet>
             <div className={isPreloaded ? 'main-body is-preload' : 'main-body'}>
               <div id="wrapper">
