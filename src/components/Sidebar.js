@@ -102,7 +102,24 @@ class SideBar extends React.Component {
 										<h2>About Us</h2>
 									</header>
 									<p>We're a small team dedicated on bringing you quality news and reviews for card games, board games, and RPGs. We might even throw in some digital games in there, too. We're based in Sweden, Spain and the UK. boardgamenews</p>
-								
+									<link href="https://cdn.sur.ly/widget-awards/css/surly-badges.min.css" rel="stylesheet">
+
+										<div id="surly-badge" class="surly__id_151710114 surly-badge_white-red" onclick="if(event.target.nodeName.toLowerCase() != 'a' && event.target.parentElement.nodeName.toLowerCase() != 'a') {window.open('https://sur.ly/i/boardgame-news.com/'); return 0;}">
+											<div class="surly-badge__header">
+												<h3 class="surly-badge__header-title">Web Safety</h3>
+												<p class="surly-badge__header-text">BOSS</p>
+											</div>
+											<div class="surly-badge__tag">
+												<a class="surly-badge__tag-text" rel="nofollow noreferrer" target="_blank" href="https://sur.ly/i/boardgame-news.com/">
+													boardgame-news.com		</a>
+											</div>
+											<div class="surly-badge__footer">
+												<h3 class="surly-badge__footer-title">Free of toxic links</h3>
+												<p class="surly-badge__footer-text">Approved by			<a rel="nofollow noreferrer" target="_blank" href="https://sur.ly" class="surly-badge__footer-link">Sur.ly</a>
+												</p>
+											</div>
+											<div class="surly-badge__date">2023</div>
+										</div>
 								</section>
 								<section>
 									<header className="major">
