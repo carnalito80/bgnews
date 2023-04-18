@@ -35,6 +35,12 @@ Anyway, back to the information about Midnight Sons. Besides Lilith as a Masterm
 
 Zarathos is likely to lead *The Fallen* and Lilith is bound to have the *Children of Lilith* with her. These are all speculations so far, of course, but are pretty sure these will show up in what looks like a great **Marvel Legendary** expansion.
 
+<figure class="figure">
+    <img class="image" alt="Salomé with Blood Frenzy" src="https://www.boardgame-news.com/images/salome.jpg" >
+    </img>
+    <figcaption class="figcaption">Salomé the Sorceress Supreme is a villain from the 'Fallen' group. Notice the new keyword 'Blood Frenzy' and also notice that she will do stuff whenever there's a master strike. Cool stuff. Also, notice she will interact with the 'Marvel Knights' hero group which indicates that there will be mainly Marvel Knights in this set.</figcaption>
+</figure>
+
 So, without further ado, here's our speculations among with the stuff that has been more or less confirmed:
 
  ###Heroes###
