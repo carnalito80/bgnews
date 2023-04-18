@@ -50,9 +50,10 @@ So, without further ado, here's our speculations among with the stuff that has b
 
 ###Villains###
 - Children of Lilith
-- The Fallen
+- The Fallen (confirmed)
 
 ###Keywords###
+- Blood Frenzy (new, confirmed)
 - Dark Memories
 - Walking Nightmare
 - Rise of the Living Dead (returning from Marvel Legendary: Secret Wars #1)
