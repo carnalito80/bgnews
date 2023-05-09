@@ -16,10 +16,10 @@ image: https://www.boardgame-news.com/images/midnight_sons.webp
 metakeywords: Marvel Legendary, marvel midnight sons, marvel legendary midnight sons, midnight sons marvel, marvel legendary morbius
 metadescription: Marvel Legendary is continuing its onslaught of expansions, the next one in line is the Midnight Sons expansion which will feature Blade and  Morbius, among other characters.
 content_brief: Marvel Legendary is continuing its onslaught of expansions, the next one in line is the Midnight Sons expansion which will feature Blade and  Morbius, among other characters.
-saletext: This expansion has not been released, but the said date is March -23. Meanwhile, check out the expansion "Fear Itself" whcih is an old classic that probably will be out of print soon.
+saletext: This expansion has not been released, but you can preorder it as GameNerdz for 19 bucks.
 salelinks: 
     - https://amzn.to/3Fg4bmo
-    - https://www.gamenerdz.com/legendary-villains-dbg-marvel-fear-itself-expansion?aff=34
+    - https://www.gamenerdz.com/legendary-dbg-marvel-midnight-sons-expansion-preorder?aff=34
    
 files: 0
 ---
@@ -46,26 +46,38 @@ So, without further ado, here's our speculations among with the stuff that has b
  ###Heroes###
  - Morbius (confirmed)
  - Blade (confirmed)
- - Werewolf by Night (confirmed)
- - Ghost Rider in some form
- - Dr. Strange is some fancy form
+ - Jack Russel, Werewolf by Night (confirmed)
+ - Elsa Bloostone (confirmed)
+ - Ghost Rider in some form?
+ - Dr. Strange is some fancy form?
 
  ###Masterminds###
  - Lilith (confirmed)
  - Zarathos
 
 ###Villains###
-- Children of Lilith
+- Lilin (Children of Lilith, confirmed)
 - The Fallen (confirmed)
 
 ###Keywords###
 - Blood Frenzy (new, confirmed)
-- Dark Memories
-- Walking Nightmare
-- Rise of the Living Dead (returning from Marvel Legendary: Secret Wars #1)
+- Hunt for for Victims (new, confirmed)
+- Haunt (new, confirmed)
+- Patrol (returning keyword from Secret Wars #2)
+- Moonlight and Sunlight (returning keyword)
+- ~~Walking Nightmare~~
+- ~~Rise of the Living Dead~~ 
 
 ###Plots###
-- Something to do with the Medalion of Power
-- Rip open the walls to Shadowside
+- Something to do with the Medalion of Power?
+- Rip open the walls to Shadowside?
+- Sire Vampires at the Blood Bank (confirmed)
+- Ritual Sacrifice to Summon Chthon, which is also a **Mastermind**, very cool (confirmed)
+
+<figure class="figure">
+    <img class="image" alt="Salomé with Blood Frenzy" src="https://www.boardgame-news.com/images/chthon_marvel.jpg" >
+    </img>
+    <figcaption class="figcaption">Ritual Sacrifice to Summon Chthon is also a mastermind, **Great Old One Chthon** a totally new mechanic never seen before. We like. We like a lot. If you have a closer look, it looks like this Mastermind can actually destroy players! Wow! Also, note that except the very nasty mastermind, the new keyword **Hunts for Victims** is also in use here.</figcaption>
+</figure>
 
 As soon as we get more news on this, we will update the post. Also, we're back on reporting of Marvel Legendary content from a hiatus, so keep your eyes open for more Marvel Legendary expansions coming out in 2023!
