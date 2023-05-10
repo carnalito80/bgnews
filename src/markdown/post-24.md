@@ -48,8 +48,9 @@ So, without further ado, here's our speculations among with the stuff that has b
  - Blade (confirmed)
  - Jack Russel, Werewolf by Night (confirmed)
  - Elsa Bloostone (confirmed)
- - Ghost Rider in some form?
- - Dr. Strange is some fancy form?
+ - Wong (confirmed)
+ - ~~Ghost Rider in some form?~~
+ - ~~Dr. Strange is some fancy form?~~
 
  ###Masterminds###
  - Lilith (confirmed)
