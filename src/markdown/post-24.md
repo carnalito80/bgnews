@@ -62,7 +62,7 @@ So, without further ado, here's our speculations among with the stuff that has b
 
 ###Keywords###
 - Blood Frenzy (new, confirmed)
-- Hunt for for Victims (new, confirmed)
+- Hunt for Victims (new, confirmed)
 - Haunt (new, confirmed)
 - Patrol (returning keyword from Secret Wars #2)
 - Moonlight and Sunlight (returning keyword)
