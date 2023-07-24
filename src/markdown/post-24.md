@@ -16,7 +16,7 @@ image: https://www.boardgame-news.com/images/midnight_sons.webp
 metakeywords: Marvel Legendary, marvel midnight sons, marvel legendary midnight sons, midnight sons marvel, marvel legendary morbius
 metadescription: Marvel Legendary is continuing its onslaught of expansions, the next one in line is the Midnight Sons expansion which will feature Blade and  Morbius, among other characters.
 content_brief: Marvel Legendary is continuing its onslaught of expansions, the next one in line is the Midnight Sons expansion which will feature Blade and  Morbius, among other characters.
-saletext: This expansion has not been released, but you can preorder it as GameNerdz for 19 bucks.
+saletext: This expansion has been released, get it at GameNerdz or Amazon.
 salelinks: 
     - https://amzn.to/3Fg4bmo
     - https://www.gamenerdz.com/legendary-dbg-marvel-midnight-sons-expansion-preorder?aff=34
