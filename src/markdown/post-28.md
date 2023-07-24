@@ -12,7 +12,7 @@ categories:
     - hand-management
     - set-collection
     - games-we-love
-image: https://www.boardgame-news.com/images/midnight_sons.webp
+image: https://www.boardgame-news.com/images/legendary_2099.jpg
 metakeywords: Marvel Legendary 2099, dr doom 2099, ghost rider 2099, spiderman 2099
 metadescription: The next Marvel legendary expansion in line is called 2099, and includes new heroes like Ghost Rider 2099 and Dr Doom 2099!
 content_brief: The next Marvel legendary expansion in line is called 2099, and will not very suprisingly take place in the future. The set will hold futuristic version of Spiderman, Ghost rider, and Dr Doom, among others.
@@ -33,7 +33,7 @@ This new set expansion allows players to recruit the futuristic heroes of 2099 t
 
 So, without further ado, here's our speculations among with the stuff that has been more or less confirmed:
 
- ###Heroes###
+ ### Heroes
  - Dr Doom 2099 (confirmed)
  - Ghostrider 2099(confirmed)
  - Spider-man 2099 (confirmed)
@@ -46,22 +46,22 @@ So, without further ado, here's our speculations among with the stuff that has b
     <figcaption class="figcaption">Doctor Doom 2099 looks pretty bad-ass, I have a good feeling about this one.</figcaption>
 </figure>
 
- ###Masterminds###
+ ### Masterminds
  - Avatarr, obviously.
  - Exodus, surely?
 
-###Villains###
+### Villains
 - Eco Corporation ?
 - Followers of the Mutant Messiah ?
 
-###Keywords###
+### Keywords
 - Excessive violence as Deadpool might be in this set?
 - Focus, don't wonder off.
 - Person out of time. Because it's time.
 - Something new and awesome.
 - Sometthing new and aweful.
 
-###Plots###
+### Plots
 - Worldwide flooding?
 - Something to do with Alchemax?
 - Something to do with something in 2099.
