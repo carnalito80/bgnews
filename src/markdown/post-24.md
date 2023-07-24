@@ -54,7 +54,8 @@ So, without further ado, here's our speculations among with the stuff that has b
 
  ###Masterminds###
  - Lilith (confirmed)
- - Zarathos
+ - Zarathos (confirmed)
+ Note that these two comes in "Epic" versions as well. Good luck with that.
 
 ###Villains###
 - Lilin (Children of Lilith, confirmed)
@@ -70,15 +71,17 @@ So, without further ado, here's our speculations among with the stuff that has b
 - ~~Rise of the Living Dead~~ 
 
 ###Plots###
-- Something to do with the Medalion of Power?
-- Rip open the walls to Shadowside?
+- ~~Something to do with the Medalion of Power?~~
+- ~~Rip open the walls to Shadowside?~~
+- Midnight Massacre
+- Wager at Blackjack for Heroes' Souls
 - Sire Vampires at the Blood Bank (confirmed)
 - Ritual Sacrifice to Summon Chthon, which is also a **Mastermind**, very cool (confirmed)
 
 <figure class="figure">
-    <img class="image" alt="Salomé with Blood Frenzy" src="https://www.boardgame-news.com/images/chthon_marvel.jpg" >
+    <img class="image fluid" alt="Salomé with Blood Frenzy" src="https://www.boardgame-news.com/images/chthon_marvel.jpg" >
     </img>
     <figcaption class="figcaption">Ritual Sacrifice to Summon Chthon is also a mastermind, **Great Old One Chthon** a totally new mechanic never seen before. We like. We like a lot. If you have a closer look, it looks like this Mastermind can actually destroy players! Wow! Also, note that except the very nasty mastermind, the new keyword **Hunts for Victims** is also in use here.</figcaption>
 </figure>
 
-As soon as we get more news on this, we will update the post. Also, we're back on reporting of Marvel Legendary content from a hiatus, so keep your eyes open for more Marvel Legendary expansions coming out in 2023!
+~~As soon as we get more news on this, we will update the post~~. This post is fully updated with all the information you need. Also, we're back on reporting of Marvel Legendary content from a hiatus, so keep your eyes open for more Marvel Legendary expansions coming out in 2023!
