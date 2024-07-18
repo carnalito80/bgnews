@@ -83,32 +83,32 @@ for (var x=0; x < thearray.length; x++) {
 export default function TopGeneric() {
  
   return (
- 
-    <header id="header">
-    <div  className="row">
-      <div className="col-4 col-12-medium">
-         {/* <a href="/" className="logo"><strong>{addtitle}</strong></a> */}
-         <strong>{addtitle}</strong>
-      </div>
+ <div></div>
+  //   <header id="header">
+  //   <div  className="row">
+  //     <div className="col-4 col-12-medium">
+  //        {/* <a href="/" className="logo"><strong>{addtitle}</strong></a> */}
+  //        <strong>{addtitle}</strong>
+  //     </div>
   
-      {thearray.map((item) => (
-        <div key={item.asin} className="col-2 col-3-small">
-           <a target="_blank" rel="nofollow noreferrer" href={item.url}>
-           <figure>
-            <img alt={item.pictitle} className="amazon-add" src={item.src} ></img>
-           <figcaption className="figcaption-add">{item.title}</figcaption>
-           </figure>
+  //     {thearray.map((item) => (
+  //       <div key={item.asin} className="col-2 col-3-small">
+  //          <a target="_blank" rel="nofollow noreferrer" href={item.url}>
+  //          <figure>
+  //           <img alt={item.pictitle} className="amazon-add" src={item.src} ></img>
+  //          <figcaption className="figcaption-add">{item.title}</figcaption>
+  //          </figure>
            
-           </a>
-        </div>
+  //          </a>
+  //       </div>
 
-      ))}
+  //     ))}
     
 
 
     
-    </div>
-  </header>
+  //   </div>
+  // </header>
   );
 
 }
