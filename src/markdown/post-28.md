@@ -31,14 +31,16 @@ Here's the official description from the publisher:
 This new set expansion allows players to recruit the futuristic heroes of 2099 to battle against the high-tech enemies of the future. The set adds 5 Heroes, 2 Masterminds, 2 Villain groups and 4 Schemes. The Heroes in this expansion include Spider-Man 2099, Ghost Rider 2099, Doom 2099, and more, and all cards included in this set feature original art based on the Marvel Comics. The game box comes with 100 playable cards and a rulesheet.
 </blockquote>
 
-So, without further ado, here's our speculations among with the stuff that has been more or less confirmed:
+So, without further ado, ~~here's our speculations among with the stuff that has been more or less confirmed~~ here's the confirmed content of this set:
 
  ### Heroes
  - Dr Doom 2099 (confirmed)
  - Ghostrider 2099(confirmed)
  - Spider-man 2099 (confirmed)
- - The Punisher 2099, mayhaps?
- - Deadpool 2099, because why not?
+ - ~~The Punisher 2099, mayhaps?~~
+ - ~~Deadpool 2099, because why not?~~
+ - Ravage (confirmed)
+ - Hulk 2099 (confirmed)
 
 <figure class="figure">
     <img class="image fluid" alt="Dr Doom 2099" src="https://www.boardgame-news.com/images/dr_doom_2009.jpg" >
@@ -47,24 +49,27 @@ So, without further ado, here's our speculations among with the stuff that has b
 </figure>
 
  ### Masterminds
- - Avatarr, obviously.
- - Exodus, surely?
+ - ~~Avatarr, obviously.~~
+ - ~~Exodus, surely?~~
+ - Sinister 6 2099 (confirmed)
+ - Alchemax Executives (confirmed)
 
 ### Villains
-- Eco Corporation ?
-- Followers of the Mutant Messiah ?
+- False Aesir of Alchemax
+- Alchemax Enforcers
 
 ### Keywords
-- Excessive violence as Deadpool might be in this set?
-- Focus, don't wonder off.
-- Person out of time. Because it's time.
-- Something new and awesome.
-- Sometthing new and aweful.
+- Undercover (returning keyword)
+- Uru-Enchanted Weapons (returning keyword)
+- Fight or Fail (returning keyword)
+- Adapt (returning keyword)
+- Cyber-Mod
+- Fated Future
 
 ### Plots
-- Worldwide flooding?
-- Something to do with Alchemax?
-- Something to do with something in 2099.
-- Something to do with something in 2099.
+- Subjugate Earth with Mega-Corporations
+- Become President of the United States
+- Befoul Earth into a Polluted Wasteland
+- Pull reality into Cyberspace
 
-As per usual, whenever we get more news on this, we will update the post.
+Our predictions were not quite on par this time, we'll do better next time, we promise! :D
