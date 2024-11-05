@@ -28,9 +28,10 @@ const IndexPage = props => {
   JSONData.items.map((data, index) => {
     thedata.listitems.map((theitem) => {
         if (data._id.$oid === theitem.$oid) thearray.push(data);
+        return true
    });
+   return true
 });
-//console.log( thearray);
 
   return (
 
@@ -75,10 +76,6 @@ const IndexPage = props => {
              
            
             </article>
-
-
-       
-    
   </Layout>
 )
   };

@@ -1,17 +1,17 @@
 { 
     "categories": [
-{"_id":{"$oid":"5bf7ee461ddd6e2f40b00c17"},"key":"stefan-feld","name":"Stefan Feld","__v":{"$numberInt":"0"}},
-{"_id":{"$oid":"5bf7ee6b1ddd6e2f40b00c18"},"key":"worker-placement","name":"Worker Placement","__v":{"$numberInt":"1"},"metadescription":"Boardgames like Lords of Waterdeep, Caylus, Caverna, Agricola and Le Havre. From designers such as Uwe Rosenberg and Stefan Feld.","metakeywords":["lords of waterdeep","caylus boardgame","caverna boardgame","agricola","uwe rosenbergs best game","stefan felds best game","caverna boardgame","le havre boardgame"],"metatitle":"Worker Placement"},
-{"_id":{"$oid":"5bf86a9f11dbf73784f1d296"},"key":"tom-lehman","name":"Tom Lehman","__v":{"$numberInt":"0"}},
-{"_id":{"$oid":"5bf86ab211dbf73784f1d297"},"key":"fantasy","name":"Fantasy","__v":{"$numberInt":"1"},"metadescription":"Dungeons and Dragons themed gamed like Tyrants of the Underdark, Lords of the Waterdeep etc. But also games like Disney Villainous","metakeywords":["Disney Villainous","Villainous"," Villainous expansions","Dungeons and Dragons","Lords of the Rings","Tyrants of the Underdark"],"metatitle":"Fantasy themed games"},
-{"_id":{"$oid":"5bf86c7911dbf73784f1d299"},"key":"card-game","name":"Card Game","__v":{"$numberInt":"2"},"metadescription":"Card games like Legendary James Bond, 7 Wonders Armada, Underwater Cities, Wor of the Worlds The new Wave, Core World: Empires and so on.. :)","metakeywords":["underwater cities","War of the Worlds: The New Wave","War of the Worlds The New Wave","legendary deckbuilding","7 wonders armada review","res arcana tom lehman","james bond legendary","legendary james bond","fields of green grand fair","core worlds empires","The Lord of the Rings: Journeys in Middle-earth","The Lord of the Rings Journeys in Middle-earth","card games","7 wonders armada","card game"],"metatitle":"Card Games"},
-{"_id":{"$oid":"5bf86c8911dbf73784f1d29a"},"key":"hand-management","name":"Hand Management","__v":{"$numberInt":"0"}},
-{"_id":{"$oid":"5bf86c9511dbf73784f1d29b"},"key":"deck-pool-building","name":"Deck / Pool Building","__v":{"$numberInt":"0"}},
-{"_id":{"$oid":"5bf96c0b1b2d2770da1b3338"},"key":"tzol-kin","name":"Tzol'kin","__v":{"$numberInt":"0"}},
-{"_id":{"$oid":"5bf96c191b2d2770da1b3339"},"key":"daniele-tascini","name":"Daniele Tascini","__v":{"$numberInt":"0"}},
-{"_id":{"$oid":"5bf96cde1b2d2770da1b333a"},"key":"publisher","name":"Publisher","__v":{"$numberInt":"0"}},
-{"_id":{"$oid":"5bf9e5811b2d2770da1b333c"},"key":"mafia","name":"Mafia","__v":{"$numberInt":"0"}},
-{"_id":{"$oid":"5bf9e5871b2d2770da1b333d"},"key":"drugs","name":"Drugs","__v":{"$numberInt":"1"},"metadescription":"Board and Card Games like Narcos the Boarrgame, Breaking Bad, Sons of Anarchy etc.","metakeywords":["drug","drugs","board games","boardgames","card games","breaking bad boardgame","breaking bad","Narcos the Boarrgame","Narcos","Sons of Anarchy board game","Sons of Anarchy"],"metatitle":"Games with drug theme."},
+{"_id":{"$oid":"1"},"key":"stefan-feld","name":"Stefan Feld","__v":{"$numberInt":"0"}},
+{"_id":{"$oid":"2"},"key":"worker-placement","name":"Worker Placement","__v":{"$numberInt":"1"},"metadescription":"Boardgames like Lords of Waterdeep, Caylus, Caverna, Agricola and Le Havre. From designers such as Uwe Rosenberg and Stefan Feld.","metakeywords":["lords of waterdeep","caylus boardgame","caverna boardgame","agricola","uwe rosenbergs best game","stefan felds best game","caverna boardgame","le havre boardgame"],"metatitle":"Worker Placement"},
+{"_id":{"$oid":"3"},"key":"tom-lehman","name":"Tom Lehman","__v":{"$numberInt":"0"}},
+{"_id":{"$oid":"4"},"key":"fantasy","name":"Fantasy","__v":{"$numberInt":"1"},"metadescription":"Dungeons and Dragons themed gamed like Tyrants of the Underdark, Lords of the Waterdeep etc. But also games like Disney Villainous","metakeywords":["Disney Villainous","Villainous"," Villainous expansions","Dungeons and Dragons","Lords of the Rings","Tyrants of the Underdark"],"metatitle":"Fantasy themed games"},
+{"_id":{"$oid":"5"},"key":"card-game","name":"Card Game","__v":{"$numberInt":"2"},"metadescription":"Card games like Legendary James Bond, 7 Wonders Armada, Underwater Cities, Wor of the Worlds The new Wave, Core World: Empires and so on.. :)","metakeywords":["underwater cities","War of the Worlds: The New Wave","War of the Worlds The New Wave","legendary deckbuilding","7 wonders armada review","res arcana tom lehman","james bond legendary","legendary james bond","fields of green grand fair","core worlds empires","The Lord of the Rings: Journeys in Middle-earth","The Lord of the Rings Journeys in Middle-earth","card games","7 wonders armada","card game"],"metatitle":"Card Games"},
+{"_id":{"$oid":"6"},"key":"hand-management","name":"Hand Management","__v":{"$numberInt":"0"}},
+{"_id":{"$oid":"7"},"key":"deck-pool-building","name":"Deck / Pool Building","__v":{"$numberInt":"0"}},
+{"_id":{"$oid":"8"},"key":"tzol-kin","name":"Tzol'kin","__v":{"$numberInt":"0"}},
+{"_id":{"$oid":"9"},"key":"daniele-tascini","name":"Daniele Tascini","__v":{"$numberInt":"0"}},
+{"_id":{"$oid":"10"},"key":"publisher","name":"Publisher","__v":{"$numberInt":"0"}},
+{"_id":{"$oid":"11"},"key":"mafia","name":"Mafia","__v":{"$numberInt":"0"}},
+{"_id":{"$oid":"12"},"key":"drugs","name":"Drugs","__v":{"$numberInt":"1"},"metadescription":"Board and Card Games like Narcos the Boarrgame, Breaking Bad, Sons of Anarchy etc.","metakeywords":["drug","drugs","board games","boardgames","card games","breaking bad boardgame","breaking bad","Narcos the Boarrgame","Narcos","Sons of Anarchy board game","Sons of Anarchy"],"metatitle":"Games with drug theme."},
 {"_id":{"$oid":"5bf9e5af1b2d2770da1b333e"},"key":"deduction","name":"Deduction","__v":{"$numberInt":"0"}},
 {"_id":{"$oid":"5bfc11e3aa5bcb649288998b"},"key":"7-wonders","name":"7 Wonders","__v":{"$numberInt":"0"}},
 {"_id":{"$oid":"5bfc120faa5bcb649288998c"},"key":"antoine-bauza","name":"Antoine Bauza","__v":{"$numberInt":"0"}},
@@ -57,6 +57,7 @@
 {"_id":{"$oid":"5bf9e5af1b2d2770da1b8555"},"key":"educational","name":"Educational","metadescription":"Educational games aims to educate through play.","__v":{"$numberInt":"0"}},
 {"_id":{"$oid":"5bf9e5af1b2d2770da1b8555"},"key":"serious-games","name":"Educational","metadescription":"Serious games are particularly useful to create awareness of complex issues and discuss the dilemma’s faced by different stakeholder groups.","__v":{"$numberInt":"0"}},
 {"_id":{"$oid":"5zz9e5811b2d2770da1b333c"},"key":"trains","name":"Trains","metadescription":"Games revolving around trains, often economy heavy.","__v":{"$numberInt":"0"}},
-{"_id":{"$oid":"52z9e5811b2d2770da1b555a"},"key":"family-game","name":"Family Game","metadescription":"Games ideal for family fun. Often light games, with little or none 'take-that!' mechanics.","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"52z9e5811b2d2770da1b555a"},"key":"family-game","name":"Family Game","metadescription":"Games ideal for family fun. Often light games, with little or none 'take-that!' mechanics.","__v":{"$numberInt":"0"}},
+{"_id":{"$oid":"52z445811b442770d44b555a"},"key":"minecraft","name":"Minecraft","metadescription":"Games and Puzzles with a Minecraft theme.."}
     ]
 }    
