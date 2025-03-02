@@ -9,6 +9,7 @@
 {"_id":{"$oid":"5e7894ec9062bd0dd4d2fd8b"},"key":"dominion-menagerie-rule-book","name":"Dominion Menagerie Rule book","__v":{"$numberInt":"0"},"author":{"$oid":"Jay Kay"},"description":"Dominion Menagerie Rule book pdf","linkedfile":"https://www.boardgame-news.com/rules/menag_rules.pdf"},
 {"_id":{"$oid":"5e9748dea2d5b55df56129f0"},"key":"monopoly-fortnite-swedish-rules","name":"Monopoly Fortnite Swedish rules","__v":{"$numberInt":"0"},"author":{"$oid":"Jay Kay"},"description":"Swedish rule book","linkedfile":"https://www.boardgame-news.com/rules/monopoly_fortnite_swe.pdf"},
 {"_id":{"$oid":"5e97493da2d5b55df56129f1"},"key":"monopoly-fortnite-german-rules","name":"Monopoly Fortnite German rules","__v":{"$numberInt":"0"},"author":{"$oid":"Jay Kay"},"description":"German rule sheet","linkedfile":"https://www.boardgame-news.com/rules/monopoly_fortnite_ger.pdf"},
+{"_id":{"$oid":"5e97493da2d5b55df56199ff"},"key":"monopoly-fortnite-german-rules","name":"Monopoly Fortnite reglas Español pdf","__v":{"$numberInt":"0"},"author":{"$oid":"Jay Kay"},"description":"Monopoly Fortnite reglas Español pdf","linkedfile":"https://www.boardgame-news.com/rules/monopoly_fortnite_espanol.pdf"},
 {"_id":{"$oid":"5f47689c7e748d3f4030ba5d"},"key":"philosophia-floating-world-rules","name":"Philosophia: Floating World rules","__v":{"$numberInt":"0"},"author":{"$oid":"Jay Kay"},"description":"Version 1.2, prototype rule book.","linkedfile":"https://www.boardgame-news.com/rules/floating_world12.pdf"}
     ]
 }

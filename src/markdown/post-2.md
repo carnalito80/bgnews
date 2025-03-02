@@ -68,7 +68,7 @@ As usual, there are a couple of new mechanics and the return of some old ones. O
  #### New Heroes
  - *Adam Warlock* -Adam gains a lot of shards and has strong Burn Shards mechanics. Awesome ulti.
  - *Captain Mar-Vell* -Danger Sense is this guys gimmick. This hero is so-so.
- - *Moondragon* -Danger Sense on this one aswell, overall a good hero with a strong ulti.
+ - *Moondragon* -Danger Sense on this one aswell, overall a good support hero with a strong ulti.
  - *Nebula* -Guardian of the Galaxy affiliation. A tech heavy hero that lets you steal Shards from other players, villains and Masterminds. Cool.
  - *Nova* -Tech heavy hero that makes enemies weaker to tech via **Cosmic Threat**. Very interesting combinations.
  - *Phyla-Vell* - A lot of Instict cards which let's you gain Shards and rewards you for hoarding them. Cool.
@@ -80,7 +80,7 @@ As usual, there are a couple of new mechanics and the return of some old ones. O
   <div class="col-9 col-12-small">
 
  #### Masterminds & Villains
- - *The Beoynder* -With 21 Strength on normal level, and24 on Epic level, this guy is hard, but not as hard as you might think. He's got **Cosmic Threat** on cards that costs 5 or more (6 or more on the Epic version), so totally doable in late game, but no way before that, and on some schemes then it might be too late. He leads *From Beyond* a villain group consisting of huge number bad guys with Cosmic Threat. Some of them can even destroy City Spaces if you let them escape...
+ - *The Beoynder* -With 21 Strength on normal level, and 24 on Epic level, this guy is hard, but not as hard as you might think. He's got **Cosmic Threat** on cards that costs 5 or more (6 or more on the Epic version), so totally doable in late game, but no way before that, and on some schemes then it might be too late. He leads *From Beyond* a villain group consisting of huge number bad guys with Cosmic Threat. Some of them can even destroy City Spaces if you let them escape...
  - *The Grandmaster* leads *Elders of the Universe* and they love to put on **Contest of Champions** a lot. As im not a fan of the mechanic itself, im not a fan of this Mastermind.
  - *Magus* -Adam Warlocks evil future version of himself which gets stronger if the villain in the city has any Shards on them, so fighting him revolves around managing the city villains with those said Shards. Of course, he leads the *Universal Church of Thruth* and these guys gives Shards to every other Villain in the City when they enter as a Ambush effect. Nice, eh?
 
