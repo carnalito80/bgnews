@@ -56,15 +56,15 @@ And here we have an example of the colors being different.
 If this is done by purpose or by accident is anyone's guess, but we would guess the latter, and this added a lot of confusion which wasn't very positive.
 
 ### Opinion
-Board: Very good.
-Cutting: Very good.
-Image: Mismatch, not good.
-Box: Mismatch, not good.
-Fit: Excellent.
-Puzzle Dust: Just a little bit, very good.
-Piece cut: Standard grid.
-Piece shapes: Good variety.
-Finish: Very nice.
+- Board: Very good.
+- Cutting: Very good.
+- Image: Mismatch, not good.
+- Box: Mismatch, not good.
+- Fit: Excellent.
+- Puzzle Dust: Just a little bit, very good.
+- Piece cut: Standard grid.
+- Piece shapes: Good variety.
+- Finish: Very nice.
 
 ### Conclusion
 This puzzle is a bit too hard for the intended audience, and when you add the confusion regarding the box and board mismatch it just becomes a mess. With that said, if you are skilled and aware of the mismatch, and really like Minecraft, by all means, pick this one up.

@@ -6,7 +6,7 @@ title: "Marvel Legendary: Messiah Complex"
 posttype: review
 author: Jay Kay
 designer: Devin Low
-playercount: 1-6
+playercount: 1-5
 age: 8+
 playtime: 30 - 90 min
 publisher: Upper Deck
