@@ -1,7 +1,7 @@
 ---
 active: true
 slug: "/news/startcraft-tabletop-board-game"
-date: "2024-03-28"
+date: "2025-03-28"
 title: "StarCraft: Tabletop and Board Game being developed"
 posttype: news
 author: Jay Kay
