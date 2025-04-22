@@ -93,7 +93,7 @@ There's one more Villain group that doesn't belong to a Mastermind included in t
 <div class="col-3 col-12-small">
     <figure class="figure">
     <img class="image fit" alt="Marvel Legendary: Gorgon" src="/images/marvel_legendary_gorgon.webp"></img>
-    <figcaption class="figcaption">A Villain from the Clan Yashida fcation, a Silver Samurai with the <strong>Chivalrous Duel</strong> keyword.</figcaption>
+    <figcaption class="figcaption">A Villain from the Clan Yashida faction, a Silver Samurai with the <strong>Chivalrous Duel</strong> keyword.</figcaption>
     </figure>
     </div>
 </div>
@@ -109,10 +109,9 @@ The set includes two copies each of 7 different Sidekicks that use mechanics fro
 - 200 cards is always nice.
 - Nice artwork on the cards.
 
-##### The bad
+#### The bad
 - The **Prey** mechanic, and the **Clone** mechanic, to some extent, are quite fiddly.
 
 ### CONCLUSION
 Overall a solid expansion which won't disapoint you. 
 **Rating: 8/10**  
-*Thanks to Upper Deck who were nice enough to send me a copy to review!*
