@@ -113,9 +113,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   }
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
     console.log(node.frontmatter.slug);
-    // console.log(node.frontmatter)
-    // if (node.frontmatter.posttype == 'news') node.frontmatter.slug = '/news/post/' + node.frontmatter.slug + '/'
-    // else if (node.frontmatter.posttype == 'review' || node.frontmatter.posttype == 'reviews'  ) node.frontmatter.slug = '/reviews/details/' + node.frontmatter.slug + '/'
+   
     createPage({
       path: node.frontmatter.slug,
       component: markdowntemplate,

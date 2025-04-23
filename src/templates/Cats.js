@@ -86,8 +86,12 @@ thearray.sort((a, b) => b.publishedDate.$date.$numberLong - a.publishedDate.$dat
           <section>
             <header className="major">
 							<h1>{thedata.metatitle ? thedata.metatitle : thedata.name}</h1>
-              <p>{thedata.metadescription ? thedata.metadescription : 'Posts about ' + thedata.name}</p>
-						</header>
+              <p>{thedata.metadescription ? thedata.metadescription : 'Posts about ' + thedata.name}
+              {thedata.name.toUpperCase() == "LEGENDARY" && 
+              <span>. Check out our list of <a href="/top/the-best-marvel-legendary-expansions">best marvel legendary expansions</a></span>
+              }
+              </p>
+            </header>
             <div className="posts">
           
             {data.allMarkdownRemark.edges.map(edge => {

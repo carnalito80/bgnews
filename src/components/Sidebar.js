@@ -74,6 +74,7 @@ class SideBar extends React.Component {
 										<li>
 											<span className={`opener ${isToplistsVisible ? "active" : "inactive"}`} >Toplists</span>
 											<ul>
+												<li><a href="/top/the-best-marvel-legendary-expansions">The best Marvel Legendary expansions</a></li>
 												<li><a href="/top/7-wonders-expansions">Best 7 Wonders expansions</a></li>
 												<li><a href="/top/terraforming-mars-expansions">Best Terraforming Mars Expansions</a></li>
 												<li><a href="/top/terraforming-mars-sleeves">Best Sleeves for Terraforming Mars</a></li>
@@ -104,21 +105,21 @@ class SideBar extends React.Component {
 									<p>We're a small team dedicated on bringing you quality news and reviews for card games, board games, and RPGs. We might even throw in some digital games in there, too. We're based in Sweden, Spain and the UK. boardgamenews</p>
 									
 
-										<div id="surly-badge" class="surly__id_151710114 surly-badge_white-red" onclick="if(event.target.nodeName.toLowerCase() != 'a' && event.target.parentElement.nodeName.toLowerCase() != 'a') {window.open('https://sur.ly/i/boardgame-news.com/'); return 0;}">
-											<div class="surly-badge__header">
-												<h3 class="surly-badge__header-title">Web Safety</h3>
-												<p class="surly-badge__header-text">BOSS</p>
+										<div id="surly-badge" className="surly__id_151710114 surly-badge_white-red" onclick="if(event.target.nodeName.toLowerCase() != 'a' && event.target.parentElement.nodeName.toLowerCase() != 'a') {window.open('https://sur.ly/i/boardgame-news.com/'); return 0;}">
+											<div className="surly-badge__header">
+												<h3 className="surly-badge__header-title">Web Safety</h3>
+												<p className="surly-badge__header-text">BOSS</p>
 											</div>
-											<div class="surly-badge__tag">
-												<a class="surly-badge__tag-text" rel="nofollow noreferrer" target="_blank" href="https://sur.ly/i/boardgame-news.com/">
+											<div className="surly-badge__tag">
+												<a className="surly-badge__tag-text" rel="nofollow noreferrer" target="_blank" href="https://sur.ly/i/boardgame-news.com/">
 													boardgame-news.com		</a>
 											</div>
-											<div class="surly-badge__footer">
-												<h3 class="surly-badge__footer-title">Free of toxic links</h3>
-												<p class="surly-badge__footer-text">Approved by			<a rel="nofollow noreferrer" target="_blank" href="https://sur.ly" class="surly-badge__footer-link">Sur.ly</a>
+											<div className="surly-badge__footer">
+												<h3 className="surly-badge__footer-title">Free of toxic links</h3>
+												<p className="surly-badge__footer-text">Approved by			<a rel="nofollow noreferrer" target="_blank" href="https://sur.ly" className="surly-badge__footer-link">Sur.ly</a>
 												</p>
 											</div>
-											<div class="surly-badge__date">2023</div>
+											<div className="surly-badge__date">2023</div>
 										</div>
 								</section>
 								<section>
