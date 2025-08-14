@@ -54,6 +54,7 @@ class PostItem extends React.Component {
       title = item.frontmatter.title
       slug = item.frontmatter.slug
       imageurl = item.frontmatter.image
+      imagealt = item.frontmatter.title
 
     }
     return (
