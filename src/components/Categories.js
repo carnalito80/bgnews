@@ -19,12 +19,11 @@ class Categories extends React.Component {
           else {
             
             if (data.key === thecat) {
-              // console.log('HOI!')
               var current = {}
               current.name = data.name
               current.slug = data.key
               current.$oid = data._id.$oid
-              // console.log(current)
+
              catsmark.push(current);
             }
 
@@ -33,8 +32,7 @@ class Categories extends React.Component {
         });
         } 
     )}
-    // console.log(catsmark)
-    // console.log(cats)
+
     let catz
     if (catsmark.length > 0 ) catz = catsmark.map((item) =>
     <li className="jk" key={item.slug}>
