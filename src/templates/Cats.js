@@ -2,20 +2,20 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import Layout from '../components/Layout';
 import PostItem from '../components/PostItem';
-import JSONData from "../data/posts.json"
-import JSONData2 from "../data/reviews.json"
-import { useStaticQuery, graphql} from 'gatsby'
+import JSONData from '../data/posts.json';
+import JSONData2 from '../data/reviews.json';
+import { useStaticQuery, graphql } from 'gatsby';
 
+const IndexPage = (props) => {
+  const { pageContext } = props;
+  const { thedata } = pageContext;
 
-  const IndexPage = (props) => {
-
-
-    const data = useStaticQuery(graphql`
+  const data = useStaticQuery(graphql`
     query {
       allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] }
-        filter: { frontmatter: {active: {eq: true}} }
-        ) {
+        filter: { frontmatter: { active: { eq: true } } }
+      ) {
         edges {
           node {
             id
@@ -33,89 +33,58 @@ import { useStaticQuery, graphql} from 'gatsby'
         }
       }
     }
-  `)
- 
-  // console.log(data.allMarkdownRemark.edges)
-  // console.log(props)
-  const {pageContext} = props;
-  const {thedata} = pageContext;
-  
-  
+  `);
 
-  let thearray = []; //all posts with this cat goes here
+  // Filter Markdown posts by category
+  const markdownPosts = data.allMarkdownRemark.edges
+    .filter(edge => edge.node.frontmatter.categories.includes(thedata.key))
+    .map(edge => <PostItem key={edge.node.id} item={edge.node} />);
 
-  //lets start with the posts array
-  
-  JSONData.posts.slice(0).reverse().map((data, index) => {
-            data.posttype  = 'news'
-     
-            data.categories.map((thecat) => {
-              if (thecat.$oid === thedata._id.$oid) {
-              
-                thearray.push(data);
-              }
-        });
-   
-});
+  // Filter JSON posts
+  const jsonPosts = [...JSONData.posts, ...JSONData2.reviews]
+    .slice() // create copy to avoid mutating original
+    .reverse()
+    .filter(post => post.categories.some(cat => cat.$oid === thedata._id.$oid))
+    .map((post, index) => {
+      // add posttype if missing
+      post.posttype = post.posttype || (JSONData.posts.includes(post) ? 'news' : 'review');
+      return <PostItem key={index} item={post} />;
+    });
 
-//lets continue with the reviews
+  // Combine all posts
+  const allPosts = [...markdownPosts, ...jsonPosts];
 
-JSONData2.reviews.slice(0).reverse().map((data, index) => {
-  data.posttype  = 'review'
-
-  data.categories.map((thecat) => {
-    if (thecat.$oid === thedata._id.$oid) {
-      
-      thearray.push(data);
-    }
-});
-
-});
-thearray.sort((a, b) => b.publishedDate.$date.$numberLong - a.publishedDate.$date.$numberLong)
   return (
-  <Layout>
+    <Layout>
       <Helmet
-              title={thedata.metatitle ? thedata.metatitle : thedata.name }
-              meta={[
-                { name: 'description', content: thedata.metadescription ? thedata.metadescription : 'Posts about ' + thedata.name},
-                { name: 'keywords', content: thedata.metakeywords },
-              ]}
-            >
-           
-            </Helmet>
-          <section>
-            <header className="major">
-							<h1>{thedata.metatitle ? thedata.metatitle : thedata.name}</h1>
-              <p>{thedata.metadescription ? thedata.metadescription : 'Posts about ' + thedata.name}
-              {thedata.name.toUpperCase() == "LEGENDARY" && 
-              <span>. Check out our list of <a href="/top/the-best-marvel-legendary-expansions">best marvel legendary expansions</a></span>
-              }
-              </p>
-            </header>
-            <div className="posts">
-          
-            {data.allMarkdownRemark.edges.map(edge => {
-              //finally the markdown, we filter it below.
-                      for (let x = 0; x < edge.node.frontmatter.categories.length; x++) {
-                        if (edge.node.frontmatter.categories[x] === thedata.key) {
-                         
-                          return  <PostItem key={edge.node.id} item={edge.node} />
-                        }
-
-                      }
-                    
-          
-        
-        } )}
-            {thearray.map((data, index) => {
-               return <PostItem item={data} key={index} />
-            }
+        title={thedata.metatitle || thedata.name}
+        meta={[
+          {
+            name: 'description',
+            content: thedata.metadescription || `Posts about ${thedata.name}`,
+          },
+          { name: 'keywords', content: thedata.metakeywords || '' },
+        ]}
+      />
+      <section>
+        <header className="major">
+          <h1>{thedata.metatitle || thedata.name}</h1>
+          <p>
+            {thedata.metadescription || `Posts about ${thedata.name}`}
+            {thedata.name.toUpperCase() === 'LEGENDARY' && (
+              <span>
+                . Check out our list of{' '}
+                <a href="/top/the-best-marvel-legendary-expansions">
+                  best marvel legendary expansions
+                </a>
+              </span>
             )}
-            
-         	</div>
-        </section>
-
-  </Layout>
-  )
+          </p>
+        </header>
+        <div className="posts">{allPosts}</div>
+      </section>
+    </Layout>
+  );
 };
-export default IndexPage
+
+export default IndexPage;
