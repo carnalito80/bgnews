@@ -33,7 +33,8 @@ class PostItem extends React.Component {
 
       imageurl =item.image.secure_url
       author  = item.author.$oid
-      imagealt = item.image.title
+      if (item.image.title && item.image.title.length > 0) imagealt = item.image.title
+      else imagealt = item.title
       title = item.title
 
       

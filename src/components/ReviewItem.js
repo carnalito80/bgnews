@@ -24,7 +24,7 @@ class ReviewItem extends React.Component {
         month: "long",
         day: "2-digit"
       }).format(item.publishedDate.$date.$numberLong)
-      imageurl =item.image.secure_url
+      imageurl = item.image.secure_url
       author  = item.author.$oid
       imagealt = item.image.title
       title = item.title
@@ -50,7 +50,7 @@ class ReviewItem extends React.Component {
     return (
     
       <article>
-      <a href={slug} className="image"><img img src={imageurl} alt={imagealt} /></a>
+      <a href={slug} className="image"><img src={imageurl} alt={imagealt} /></a>
                    <h3>{title}</h3>
                    <i>Posted {dejt } by {author}</i><br></br>
                       <div className="text-wrapper">

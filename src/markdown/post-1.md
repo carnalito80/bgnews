@@ -12,7 +12,7 @@ categories:
     - hand-management
     - set-collection
     - games-we-love
-image: https://www.boardgame-news.com/images/kings.jpg
+image: https://www.boardgame-news.com/images/kings.webp
 metakeywords: Marvel Legendary, marvel realm of kings, marvel legendary realm of kings, legendary marvel realm of kings
 metadescription: Another expansion for Legendary is out, believe it or not :)
 content_brief:  Another expansion for Legendary is out, believe it or not, check it out here.

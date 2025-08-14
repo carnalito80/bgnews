@@ -42,6 +42,16 @@ module.exports = {
      
       },
     },
+     {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `Open Sans\:400,600,400italic,600italic`,
+          `Roboto Slab\:400,700`,
+        ],
+        display: 'swap', // prevents render-blocking text
+      },
+    },
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,

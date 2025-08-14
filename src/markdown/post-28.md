@@ -12,7 +12,7 @@ categories:
     - hand-management
     - set-collection
     - games-we-love
-image: https://www.boardgame-news.com/images/legendary_2099.jpg
+image: https://www.boardgame-news.com/images/legendary_2099.webp
 metakeywords: Marvel Legendary 2099, dr doom 2099, ghost rider 2099, spiderman 2099
 metadescription: The next Marvel legendary expansion in line is called 2099, and includes new heroes like Ghost Rider 2099 and Dr Doom 2099!
 content_brief: The next Marvel legendary expansion in line is called 2099, and will not very suprisingly take place in the future. The set will hold futuristic version of Spiderman, Ghost rider, and Dr Doom, among others.
@@ -43,7 +43,7 @@ So, without further ado, ~~here's our speculations among with the stuff that has
  - Hulk 2099 (confirmed)
 
 <figure class="figure">
-    <img class="image fluid" alt="Dr Doom 2099" src="https://www.boardgame-news.com/images/dr_doom_2009.jpg" >
+    <img class="image fluid" alt="Dr Doom 2099" src="https://www.boardgame-news.com/images/dr_doom_2009.webp" >
     </img>
     <figcaption class="figcaption">Doctor Doom 2099 looks pretty bad-ass, I have a good feeling about this one.</figcaption>
 </figure>

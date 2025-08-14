@@ -79,7 +79,7 @@ So, without further ado, here's our speculations among with the stuff that has b
 - Ritual Sacrifice to Summon Chthon, which is also a **Mastermind**, very cool (confirmed)
 
 <figure class="figure">
-    <img class="image fluid" alt="Salomé with Blood Frenzy" src="https://www.boardgame-news.com/images/chthon_marvel.jpg" >
+    <img class="image fluid" alt="The great old one Chthon" src="https://www.boardgame-news.com/images/chthon_marvel.webp" >
     </img>
     <figcaption class="figcaption">Ritual Sacrifice to Summon Chthon is also a mastermind, **Great Old One Chthon** a totally new mechanic never seen before. We like. We like a lot. If you have a closer look, it looks like this Mastermind can actually destroy players! Wow! Also, note that except the very nasty mastermind, the new keyword **Hunts for Victims** is also in use here.</figcaption>
 </figure>

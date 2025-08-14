@@ -48,10 +48,7 @@ class Layout extends Component {
               ]}
             >
               <html lang="en" />
-              <link
-                href="https://cdn.sur.ly/widget-awards/css/surly-badges.min.css"
-                rel="stylesheet"
-              />
+            
             </Helmet>
 
             <div className="main-body">
