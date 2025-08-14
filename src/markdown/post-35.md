@@ -22,7 +22,7 @@ salelinks:
 files: 0
 ---
 
-**Brass: Pittsburgh** is the highly anticipated standalone board game from Roxley Games, **set to debut on Gamefound in early 2026**. Co-designed by Gavan Brown, famed for Brass: Birmingham, and original Brass creator Martin Wallace, Brass: Pittsburgh builds on the celebrated Brass series, offering new strategic depth and innovative gameplay for fans of industrial-themed board games.
+**Brass: Pittsburgh** is the highly anticipated standalone board game from Roxley Games, **set to debut on Gamefound in early 2026**. Co-designed by Gavan Brown, known for **Brass: Birmingham**, and original Brass creator **Martin Wallace**, Brass: Pittsburgh builds on the celebrated Brass series, offering new strategic depth and innovative gameplay for fans of industrial-themed board games.
 
 Set during America's industrial age in the late 19th century, **Brass: Pittsburgh**"** sets players in the industrial boom of the northeastern United States, particularly the Steel Belt that is centered around Pittsburgh. 
 Players will take the roles of historical figures from this time like John D. Rockefeller, Andrew Carnegie, and Henry Frick. Players will in a classic Brass manner establish railway networks, pipelines, etc. In this Brass Pittsburgh there will be Steel Mills, Oil Refineries, and probably a lot more stuff to use.
