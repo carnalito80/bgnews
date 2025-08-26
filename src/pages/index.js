@@ -20,7 +20,7 @@ const IndexPage = () => (
             With that said, i hope you bear with me as I continue to rebuild the site. <br />
             Start using the site by clicking on the menu on the upper left, or go directly to <a href="https://www.boardgame-news.com/news/">news</a> or <a href="https://www.boardgame-news.com/reviews/">reviews</a> right here. <br /><br />
 
-            We also have a section of toplists which can be found the in the menu, or you could jump directly to the <a href="https://www.boardgame-news.com/top/the-best-marvel-legendary-expansions">Best Marvel: Legendary Expansion (top list)</a>
+            We also have a section of toplists which can be found the in the menu, or you could jump directly to the <a href="https://www.boardgame-news.com/top/the-best-marvel-legendary-expansions">Best Marvel: Legendary Expansions (top list)</a>
             <br />
             Cheers, <br />
             Jay
