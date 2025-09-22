@@ -38,13 +38,6 @@ In this competitive version of Legendary, players seek to claim the ultimate pri
 Winter is coming, and the houses of Westeros are locked in a bitter battle. Experience a thrilling world of epic warfare with Legendary: Game of Thrones Deck Building Game, in which you play as one of the Great Houses, with your own heroes to recruit and masterminds to protect. No matter who you choose, be prepared! It will take more than brute strength to prevail. You will need skill, guile, and a steady hand if you are to sit on the Iron Throne!
 </blockquote>
 
-
-<figure class="figure">
-    <img class="image fluid" alt="Legendary Khal Drogo" src="https://www.boardgame-news.com/images/khal_drogo.webp" >
-    </img>
-    <figcaption class="figcaption">Khal Drogo as a Mastermind.</figcaption>
-</figure>
-
 <figure class="figure">
     <img class="image fluid" alt="Dr Doom 2099" src="https://www.boardgame-news.com/images/young_dragon.webp" >
     </img>
@@ -52,27 +45,19 @@ Winter is coming, and the houses of Westeros are locked in a bitter battle. Expe
 </figure>
 
  ### Masterminds
- - ~~Avatarr, obviously.~~
- - ~~Exodus, surely?~~
- - Sinister 6 2099 (confirmed)
- - Alchemax Executives (confirmed)
+ - Lord Varys (probably)
+ - Lord Tywin Lannister (probably)
+ - Khal Drogo (confirmed)
+ - Cat Stark (confirmed)
+ - Cersei Lannister (confirmed)
+ - Lord Eddard Stark (confirmed)
+ - King Robert Baratheon (confirmed)
 
-### Villains
-- False Aesir of Alchemax
-- Alchemax Enforcers
+<figure class="figure">
+    <img class="image fluid" alt="Legendary Khal Drogo" src="https://www.boardgame-news.com/images/khal_drogo.webp" >
+    </img>
+    <figcaption class="figcaption">Khal Drogo as a Mastermind.</figcaption>
+</figure>
 
-### Keywords
-- Undercover (returning keyword)
-- Uru-Enchanted Weapons (returning keyword)
-- Fight or Fail (returning keyword)
-- Adapt (returning keyword)
-- Cyber-Mod
-- Fated Future
+We will keep you posted when we have more details, but this is it as of now.
 
-### Plots
-- Subjugate Earth with Mega-Corporations
-- Become President of the United States
-- Befoul Earth into a Polluted Wasteland
-- Pull reality into Cyberspace
-
-Our predictions were not quite on par this time, we'll do better next time, we promise! :D
