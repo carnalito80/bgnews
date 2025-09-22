@@ -1,7 +1,7 @@
 ---
 active: true
 slug: "/news/legendary-game-of-thrones"
-date: "20225-09-20"
+date: "2025-09-20"
 title: "Legendary: Game of Thrones"
 posttype: news
 author: Jay Kay
