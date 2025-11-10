@@ -59,6 +59,7 @@
 {"_id":{"$oid":"5zz9e5811b2d2770da1b333c"},"key":"trains","name":"Trains","metadescription":"Games revolving around trains, often economy heavy.","__v":{"$numberInt":"0"}},
 {"_id":{"$oid":"52z9e5811b2d2770da1b555a"},"key":"family-game","name":"Family Game","metadescription":"Games ideal for family fun. Often light games, with little or none 'take-that!' mechanics.","__v":{"$numberInt":"0"}},
 {"_id":{"$oid":"52z445811b442770d44b555a"},"key":"minecraft","name":"Minecraft","metadescription":"Games and Puzzles with a Minecraft theme.."},
-{"_id":{"$oid":"44z445811b442770d999555a"},"key":"miniatures","name":"Miniatures","metadescription":"Games that have fancy miniatures, or 'minis' as they are often refered to."}
+{"_id":{"$oid":"44z445811b442770d999555a"},"key":"miniatures","name":"Miniatures","metadescription":"Games that have fancy miniatures, or 'minis' as they are often refered to."},
+{"_id":{"$oid":"4bz445811b442770d9b9555b"},"key":"concordia","name":"Concordia","metadescription":"Articles related to the fantastic board game Concordia by Mac Gerdts."}
     ]
 }    
